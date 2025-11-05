@@ -32,16 +32,6 @@ This will execute the `run` function in `commands/data_cleaning/csv_overview.py`
 
 You can explore the `commands/` directory to see the available analysis scripts. Each script is designed to be run as a standalone command using `main.py`.
 
-## Dependencies
+## Data
 
-This project requires the following Python libraries:
-
-- pandas
-- numpy
-- matplotlib
-
-You can install them using pip:
-
-```bash
-pip install -r requirements.txt
-```
+There is much data and visualizations already created. To locate this, navigate to out. Here you will find various categories of types of data, including summary reports for intermediary steps such as datacleaning. The summarized data for QARP is located inside out/quality_price
