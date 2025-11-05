@@ -34,4 +34,4 @@ You can explore the `commands/` directory to see the available analysis scripts.
 
 ## Data
 
-There is much data and visualizations already created. To locate this, navigate to out. Here you will find various categories of types of data, including summary reports for intermediary steps such as datacleaning. The summarized data for QARP is located inside out/quality_price
+The data folder is slighly misleading. It contains data from the primary csv that is used to generate insights (including benchmark tables etc...). Many of the visualizations have already been created. To locate this, navigate to out. Here you will find various categories of types of data, including summary reports for intermediary steps such as datacleaning. The summarized data for QARP is located inside out/quality_price
