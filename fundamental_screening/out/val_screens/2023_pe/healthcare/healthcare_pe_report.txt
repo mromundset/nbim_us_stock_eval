@@ -1,0 +1,75 @@
+# Sector Ratio Screen
+Input file: data/sector_performance_ratios.csv
+Sector: Healthcare | Year: 2023 | Ratio: P/E (resolved as 'P/E Ratio')
+Sorted ascending (lowest first)
+Rows output: 65
+
+Top 10 preview:
+Ticker                                   Company Name  P/E Ratio
+   BAX                      Baxter International Inc.     -2.796
+  CTLT                                 Catalent, Inc.     -1.403
+   BIO                     Bio-Rad Laboratories, Inc.     -0.494
+  MRNA                                  Moderna, Inc.     -0.306
+   WBA                 Walgreens Boots Alliance, Inc.     -0.167
+   JNJ                              Johnson & Johnson      0.362
+   CVS                         CVS Health Corporation      0.365
+   BMY                   Bristol-Myers Squibb Company      0.404
+   CNC                            Centene Corporation      0.515
+  GILD                          Gilead Sciences, Inc.      0.538
+  SOLV                          Solventum Corporation      0.557
+   HCA                           HCA Healthcare, Inc.      0.583
+   MCK                           McKesson Corporation      0.591
+   UHS                Universal Health Services, Inc.      0.595
+   DVA                                    DaVita Inc.      0.600
+   DGX                 Quest Diagnostics Incorporated      0.602
+   HUM                                    Humana Inc.      0.622
+    CI                              Cigna Corporation      0.646
+   MOH                        Molina Healthcare, Inc.      0.659
+   ELV                           Elevance Health Inc.      0.708
+   UNH                UnitedHealth Group Incorporated      0.738
+  HSIC                             Henry Schein, Inc.      0.773
+  INCY                             Incyte Corporation      0.793
+  AMGN                                     Amgen Inc.      0.810
+   ZBH                   Zimmer Biomet Holdings, Inc.      0.817
+   CRL Charles River Laboratories International, Inc.      0.835
+   COR                                        Cencora      0.868
+  GEHC                GE HealthCare Technologies Inc.      0.902
+  REGN                Regeneron Pharmaceuticals, Inc.      0.908
+  BIIB                                    Biogen Inc.      0.959
+   TFX                          Teleflex Incorporated      0.983
+   MDT                                  Medtronic plc      0.990
+   WAT                             Waters Corporation      0.999
+   RMD                                    ResMed Inc.      1.000
+   IQV                            IQVIA Holdings Inc.      1.048
+  VRTX            Vertex Pharmaceuticals Incorporated      1.095
+     A                     Agilent Technologies, Inc.      1.141
+   ABT                            Abbott Laboratories      1.173
+   ZTS                                    Zoetis Inc.      1.214
+   TMO                  Thermo Fisher Scientific Inc.      1.249
+   MTD              Mettler-Toledo International Inc.      1.269
+    EW               Edwards Lifesciences Corporation      1.298
+   DHR                            Danaher Corporation      1.355
+  TECH                         Bio-Techne Corporation      1.396
+  HOLX                                  Hologic, Inc.      1.401
+   SYK                            Stryker Corporation      1.442
+   WST             West Pharmaceutical Services, Inc.      1.499
+    LH     Laboratory Corporation of America Holdings      1.518
+  ALGN                         Align Technology, Inc.      1.624
+   BDX                  Becton, Dickinson and Company      1.654
+  IDXX                       IDEXX Laboratories, Inc.      1.805
+  VEEV                             Veeva Systems Inc.      2.033
+   COO                     The Cooper Companies, Inc.      2.142
+  PODD                            Insulet Corporation      2.160
+  ABBV                                    AbbVie Inc.      2.222
+   BSX                  Boston Scientific Corporation      2.291
+   PFE                                    Pfizer Inc.      2.466
+  RVTY                                  Revvity, Inc.      2.518
+  ISRG                       Intuitive Surgical, Inc.      2.664
+  DXCM                                   DexCom, Inc.      2.886
+   CAH                          Cardinal Health, Inc.      3.396
+   LLY                          Eli Lilly and Company      4.970
+   STE                                     STERIS plc      7.113
+  VTRS                                   Viatris Inc.      8.801
+   MRK                              Merck & Co., Inc.     30.824
+
+Saved → out\healthcare_pe.csv

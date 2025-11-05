@@ -1,0 +1,31 @@
+# Sector Ratio Screen
+Input file: data/sector_performance_ratios.csv
+Sector: Basic Materials | Year: 2023 | Ratio: P/S (resolved as 'P/S Ratio')
+Sorted ascending (lowest first)
+Rows output: 21
+
+Top 10 preview:
+Ticker                            Company Name  P/S Ratio
+   MOS                      The Mosaic Company      0.346
+   LYB          LyondellBasell Industries N.V.      0.360
+   DOW                                Dow Inc.      0.400
+  STLD                    Steel Dynamics, Inc.      0.530
+   EMN                Eastman Chemical Company      0.554
+   ALB                   Albemarle Corporation      0.626
+    CE                    Celanese Corporation      0.671
+   FMC                         FMC Corporation      0.752
+   PPG                    PPG Industries, Inc.      0.815
+   IFF International Flavors & Fragrances Inc.      0.886
+  CTVA                           Corteva, Inc.      1.016
+    CF            CF Industries Holdings, Inc.      1.063
+   NEM                     Newmont Corporation      1.280
+    DD                 DuPont de Nemours, Inc.      1.287
+   FCX                   Freeport-McMoRan Inc.      1.301
+   SHW            The Sherwin-Williams Company      1.612
+   ECL                             Ecolab Inc.      2.021
+   VMC                Vulcan Materials Company      2.033
+   APD        Air Products and Chemicals, Inc.      2.150
+   MLM         Martin Marietta Materials, Inc.      2.357
+   LIN                               Linde plc      3.075
+
+Saved → out\basic_materials_ps.csv

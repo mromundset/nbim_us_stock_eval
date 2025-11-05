@@ -1,0 +1,29 @@
+# Sector Composition Overview
+Input: data/us_stock_valuation_clean.csv
+Sectors (by company count):
+                Sector  company_count  company_pct
+            Technology             79        15.74
+           Industrials             74        14.74
+    Financial Services             67        13.35
+            Healthcare             65        12.95
+     Consumer Cyclical             56        11.16
+    Consumer Defensive             35         6.97
+             Utilities             32         6.37
+           Real Estate             31         6.18
+                Energy             24         4.78
+       Basic Materials             22         4.38
+Communication Services             17         3.39
+
+Sectors (by market cap weight):
+                Sector  weight_pct
+            Technology       26.22
+    Financial Services       13.69
+            Healthcare       12.98
+     Consumer Cyclical       11.45
+Communication Services       10.26
+           Industrials        8.35
+    Consumer Defensive        6.57
+                Energy        3.73
+           Real Estate        2.31
+             Utilities        2.31
+       Basic Materials        2.12

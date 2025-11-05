@@ -1,0 +1,41 @@
+# Sector Ratio Screen
+Input file: data/sector_performance_ratios.csv
+Sector: Consumer Defensive | Year: 2023 | Ratio: P/E (resolved as 'P/E Ratio')
+Sorted ascending (lowest first)
+Rows output: 31
+
+Top 10 preview:
+Ticker                      Company Name  P/E Ratio
+   STZ        Constellation Brands, Inc.    -57.606
+   SJM         The J. M. Smucker Company     -7.205
+   TSN                 Tyson Foods, Inc.     -1.377
+    BG                     Bunge Limited      0.317
+    MO                Altria Group, Inc.      0.448
+   ADM    Archer-Daniels-Midland Company      0.458
+   TAP     Molson Coors Beverage Company      0.620
+   KHC           The Kraft Heinz Company      0.699
+    LW        Lamb Weston Holdings, Inc.      0.704
+   CPB             Campbell Soup Company      0.729
+   GIS               General Mills, Inc.      0.754
+    PM  Philip Morris International Inc.      0.912
+  MDLZ      Mondelez International, Inc.      0.936
+   KDP             Keurig Dr Pepper Inc.      0.977
+   CAG              Conagra Brands, Inc.      0.981
+     K                         Kellanova      0.984
+   HSY               The Hershey Company      0.987
+   SYY                 Sysco Corporation      1.003
+   HRL          Hormel Foods Corporation      1.087
+  KVUE                       Kenvue Inc.      1.109
+   PEP                     PepsiCo, Inc.      1.198
+    KO             The Coca-Cola Company      1.199
+    PG      The Procter & Gamble Company      1.204
+   MKC McCormick & Company, Incorporated      1.310
+    CL         Colgate-Palmolive Company      1.558
+   CHD         Church & Dwight Co., Inc.      1.598
+  MNST      Monster Beverage Corporation      1.637
+   WMT                      Walmart Inc.      1.677
+  COST      Costco Wholesale Corporation      2.394
+    EL   The Estée Lauder Companies Inc.      2.506
+   CLX                The Clorox Company      5.889
+
+Saved → out\consumer_defensive_pe.csv

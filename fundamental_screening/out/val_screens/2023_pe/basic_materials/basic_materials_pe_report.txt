@@ -1,0 +1,31 @@
+# Sector Ratio Screen
+Input file: data/sector_performance_ratios.csv
+Sector: Basic Materials | Year: 2023 | Ratio: P/E (resolved as 'P/E Ratio')
+Sorted ascending (lowest first)
+Rows output: 21
+
+Top 10 preview:
+Ticker                            Company Name  P/E Ratio
+   NEM                     Newmont Corporation     -0.536
+   IFF International Flavors & Fragrances Inc.     -0.356
+   FMC                         FMC Corporation      0.229
+    CE                    Celanese Corporation      0.336
+   ALB                   Albemarle Corporation      0.344
+   MOS                      The Mosaic Company      0.362
+  STLD                    Steel Dynamics, Inc.      0.364
+    CF            CF Industries Holdings, Inc.      0.414
+   EMN                Eastman Chemical Company      0.510
+   LYB          LyondellBasell Industries N.V.      0.629
+   PPG                    PPG Industries, Inc.      1.049
+   APD        Air Products and Chemicals, Inc.      1.059
+   MLM         Martin Marietta Materials, Inc.      1.193
+   SHW            The Sherwin-Williams Company      1.395
+   FCX                   Freeport-McMoRan Inc.      1.443
+   LIN                               Linde plc      1.460
+   VMC                Vulcan Materials Company      1.519
+   ECL                             Ecolab Inc.      2.018
+  CTVA                           Corteva, Inc.      2.125
+   DOW                                Dow Inc.      2.766
+    DD                 DuPont de Nemours, Inc.      3.293
+
+Saved → out\basic_materials_pe.csv

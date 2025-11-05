@@ -1,0 +1,41 @@
+# Sector Ratio Screen
+Input file: data/sector_performance_ratios.csv
+Sector: Utilities | Year: 2023 | Ratio: P/E (resolved as 'P/E Ratio')
+Sorted ascending (lowest first)
+Rows output: 31
+
+Top 10 preview:
+Ticker                                 Company Name  P/E Ratio
+   GEV                              GE Vernova Inc.     -5.795
+   NRG                             NRG Energy, Inc.     -4.201
+    ES                            Eversource Energy     -2.509
+   ETR                          Entergy Corporation      0.513
+    ED                    Consolidated Edison, Inc.      0.678
+   PEG Public Service Enterprise Group Incorporated      0.734
+   EXC                           Exelon Corporation      0.830
+   SRE                                       Sempra      0.836
+   PCG                             PG&E Corporation      0.865
+   DTE                           DTE Energy Company      0.885
+   AEE                           Ameren Corporation      0.899
+   PNW            Pinnacle West Capital Corporation      0.902
+  EVRG                                 Evergy, Inc.      0.934
+    NI                                NiSource Inc.      0.946
+   DUK                      Duke Energy Corporation      0.947
+   XEL                             Xcel Energy Inc.      0.960
+   NEE                         NextEra Energy, Inc.      0.990
+   LNT                   Alliant Energy Corporation      0.993
+   WEC                       WEC Energy Group, Inc.      1.017
+   ATO                     Atmos Energy Corporation      1.057
+   CMS                       CMS Energy Corporation      1.062
+    FE                            FirstEnergy Corp.      1.083
+    SO                         The Southern Company      1.114
+   AEP        American Electric Power Company, Inc.      1.115
+   VST                                 Vistra Corp.      1.144
+     D                        Dominion Energy, Inc.      1.180
+   CNP                     CenterPoint Energy, Inc.      1.180
+   EIX                         Edison International      1.230
+   AWK           American Water Works Company, Inc.      1.419
+   PPL                              PPL Corporation      1.515
+   CEG             Constellation Energy Corporation      2.093
+
+Saved → out\utilities_pe.csv

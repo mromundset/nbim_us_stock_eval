@@ -1,0 +1,41 @@
+# Sector Ratio Screen
+Input file: data/sector_performance_ratios.csv
+Sector: Real Estate | Year: 2023 | Ratio: P/S (resolved as 'P/S Ratio')
+Sorted ascending (lowest first)
+Rows output: 31
+
+Top 10 preview:
+Ticker                            Company Name  P/S Ratio
+  CBRE                        CBRE Group, Inc.      0.108
+   HST             Host Hotels & Resorts, Inc.      0.323
+    WY                    Weyerhaeuser Company      0.368
+   BXP                 Boston Properties, Inc.      0.378
+   VTR                            Ventas, Inc.      0.519
+   IRM              Iron Mountain Incorporated      0.540
+   DOC             Healthpeak Properties, Inc.      0.557
+   CCI                       Crown Castle Inc.      0.799
+   KIM                Kimco Realty Corporation      0.840
+   ARE   Alexandria Real Estate Equities, Inc.      0.871
+   CPT                   Camden Property Trust      0.886
+   MAA Mid-America Apartment Communities, Inc.      0.891
+   FRT         Federal Realty Investment Trust      0.896
+  WELL                          Welltower Inc.      0.951
+   UDR                               UDR, Inc.      0.960
+   DLR              Digital Realty Trust, Inc.      0.992
+  SBAC          SBA Communications Corporation      0.999
+  VICI                    VICI Properties Inc.      1.006
+   REG             Regency Centers Corporation      1.021
+   AMT              American Tower Corporation      1.044
+   EQR                      Equity Residential      1.067
+   SPG              Simon Property Group, Inc.      1.072
+  INVH                   Invitation Homes Inc.      1.081
+     O               Realty Income Corporation      1.117
+  EQIX                           Equinix, Inc.      1.162
+   AVB             AvalonBay Communities, Inc.      1.195
+   ESS              Essex Property Trust, Inc.      1.208
+   EXR                Extra Space Storage Inc.      1.224
+   PSA                          Public Storage      1.384
+  CSGP                      CoStar Group, Inc.      1.625
+   PLD                          Prologis, Inc.      1.803
+
+Saved → out\real_estate_ps.csv

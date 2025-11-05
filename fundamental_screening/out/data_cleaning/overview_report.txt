@@ -1,0 +1,94 @@
+Successfully loaded data/us_stock_valuation.csv
+
+=== Dataframe Shape ===
+Rows: 14200, Columns: 62
+
+=== Column Summary ===
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 14200 entries, 0 to 14199
+Data columns (total 62 columns):
+ #   Column                               Non-Null Count  Dtype  
+---  ------                               --------------  -----  
+ 0   Ticker                               14200 non-null  object 
+ 1   Company Name                         8212 non-null   object 
+ 2   Sector                               8212 non-null   object 
+ 3   Industry                             8212 non-null   object 
+ 4   Beta                                 8212 non-null   float64
+ 5   Calendar Year                        8212 non-null   float64
+ 6   Period                               8212 non-null   object 
+ 7   Filing Date                          8212 non-null   object 
+ 8   Revenue                              8210 non-null   float64
+ 9   Cost Of Revenue                      8209 non-null   float64
+ 10  Net Income                           8212 non-null   float64
+ 11  Total Current Assets                 8202 non-null   float64
+ 12  Total Assets                         8199 non-null   float64
+ 13  Total Current Liabilities            8202 non-null   float64
+ 14  Total Liabilities                    8202 non-null   float64
+ 15  Long-Term Debt                       8202 non-null   float64
+ 16  Short-Term Debt                      8202 non-null   float64
+ 17  Total Debt                           8202 non-null   float64
+ 18  Interest Expense                     8212 non-null   float64
+ 19  Income Before Tax                    8212 non-null   float64
+ 20  Income Tax Expense                   8212 non-null   float64
+ 21  Depreciation and Amortization        8209 non-null   float64
+ 22  Operating Expenses                   8212 non-null   float64
+ 23  Operating Income                     8206 non-null   float64
+ 24  EBITDA                               8212 non-null   float64
+ 25  EBIT                                 8212 non-null   float64
+ 26  EBT                                  8212 non-null   float64
+ 27  Operating Cash Flow                  8208 non-null   float64
+ 28  Capital Expenditure                  8208 non-null   float64
+ 29  Cash And Short Term Investments      8199 non-null   float64
+ 30  Net Cash                             8199 non-null   float64
+ 31  Free Cash Flow                       8205 non-null   float64
+ 32  Stock Based Compensation             8205 non-null   float64
+ 33  Dividends Paid                       8208 non-null   float64
+ 34  Common Stock                         8202 non-null   float64
+ 35  Preferred Stock                      8202 non-null   float64
+ 36  Retained Earnings                    8202 non-null   float64
+ 37  Weighted Average Shares Outstanding  8212 non-null   float64
+ 38  Revenue Per Share                    8209 non-null   float64
+ 39  Earnings per Share                   8212 non-null   float64
+ 40  Book Value Per Share                 8212 non-null   float64
+ 41  Current Ratio                        8212 non-null   float64
+ 42  Quick Ratio                          8212 non-null   float64
+ 43  Return On Equity                     8203 non-null   float64
+ 44  Return On Invested Capital           8200 non-null   float64
+ 45  Return On Assets                     8206 non-null   float64
+ 46  Return On Capital Employed           8212 non-null   float64
+ 47  Gross Profit Margin                  8207 non-null   float64
+ 48  Operating Profit Margin              8204 non-null   float64
+ 49  Effective Tax Rate                   8212 non-null   float64
+ 50  Pre-Tax Cost of Debt                 8212 non-null   float64
+ 51  After-Tax Cost of Debt               8212 non-null   float64
+ 52  Interest Coverage Ratio              8203 non-null   float64
+ 53  Price Dates                          8212 non-null   object 
+ 54  Price                                8212 non-null   float64
+ 55  Market Cap                           8212 non-null   float64
+ 56  P/E Ratio                            8209 non-null   float64
+ 57  P/S Ratio                            8203 non-null   float64
+ 58  Risk Free Rate                       8209 non-null   float64
+ 59  Equity Risk Premium                  8208 non-null   float64
+ 60  WACC                                 8209 non-null   float64
+ 61  Avg Market Return                    8212 non-null   float64
+dtypes: float64(55), object(7)
+memory usage: 6.7+ MB
+
+=== Missing Values (%)
+Ticker                  0.000000
+Company Name           42.169014
+Sector                 42.169014
+Industry               42.169014
+Beta                   42.169014
+                         ...    
+P/S Ratio              42.232394
+Risk Free Rate         42.190141
+Equity Risk Premium    42.197183
+WACC                   42.190141
+Avg Market Return      42.169014
+Length: 62, dtype: float64
+
+=== Potential Issues ===
+No duplicate column names found.
+Constant-value columns found: ['Period', 'Avg Market Return']
+Mixed data type columns found: ['Company Name', 'Sector', 'Industry', 'Period', 'Filing Date', 'Price Dates']

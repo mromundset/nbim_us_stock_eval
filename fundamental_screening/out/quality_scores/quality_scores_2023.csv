@@ -1,0 +1,490 @@
+Company Name,Sector,total_health,roe_score,roic_score,margin_score,liquidity_score,roe_w,roic_w,margin_w,liquidity_w
+Mastercard Incorporated,Financial Services,4.199,5.0,5.0,2.348,0.967,0.45,0.3,0.15,0.1
+"Ameriprise Financial, Inc.",Financial Services,4.088,4.463,5.0,1.862,3.0,0.45,0.3,0.15,0.1
+APA Corporation,Energy,4.083,5.0,5.0,3.0,0.829,0.25,0.4,0.25,0.1
+Visa Inc.,Financial Services,3.247,3.686,3.593,2.603,1.198,0.45,0.3,0.15,0.1
+"Apollo Global Management, Inc.",Financial Services,3.055,2.967,5.0,1.012,0.678,0.45,0.3,0.15,0.1
+Aflac Incorporated,Financial Services,2.999,1.752,5.0,2.915,2.736,0.45,0.3,0.15,0.1
+"IDEXX Laboratories, Inc.",Healthcare,2.982,4.311,3.681,2.0,0.994,0.25,0.3,0.35,0.1
+Apple Inc.,Technology,2.963,5.0,3.797,1.602,0.733,0.2,0.35,0.35,0.1
+KLA Corporation,Technology,2.908,5.0,2.928,2.048,1.659,0.2,0.35,0.35,0.1
+"VeriSign, Inc.",Technology,2.862,0.0,5.0,3.0,0.615,0.2,0.35,0.35,0.1
+Moody's Corporation,Financial Services,2.823,4.0,2.185,1.518,1.397,0.45,0.3,0.15,0.1
+Public Storage,Real Estate,2.799,2.853,3.744,2.275,0.795,0.4,0.3,0.2,0.1
+"Verisk Analytics, Inc.",Industrials,2.79,5.0,2.024,2.605,0.789,0.25,0.4,0.25,0.1
+"Raymond James Financial, Inc.",Financial Services,2.788,1.405,4.914,2.547,3.0,0.45,0.3,0.15,0.1
+"Automatic Data Processing, Inc.",Industrials,2.779,5.0,2.634,1.605,0.744,0.25,0.4,0.25,0.1
+Colgate-Palmolive Company,Consumer Defensive,2.77,5.0,2.692,1.386,1.121,0.3,0.25,0.35,0.1
+GoDaddy Inc.,Technology,2.719,5.0,4.007,0.806,0.348,0.2,0.35,0.35,0.1
+FMC Corporation,Basic Materials,2.714,1.863,5.0,1.326,1.0,0.25,0.35,0.3,0.1
+"Everest Group, Ltd.",Financial Services,2.699,1.579,5.0,3.0,0.388,0.45,0.3,0.15,0.1
+Illinois Tool Works Inc.,Industrials,2.628,5.0,2.228,1.549,1.0,0.25,0.4,0.25,0.1
+Zoetis Inc.,Healthcare,2.588,3.553,2.164,2.393,2.127,0.25,0.3,0.35,0.1
+Discover Financial Services,Financial Services,2.581,1.636,4.494,3.0,0.463,0.45,0.3,0.15,0.1
+American Tower Corporation,Real Estate,2.564,4.707,1.395,0.984,0.654,0.4,0.3,0.2,0.1
+Iron Mountain Incorporated,Real Estate,2.563,5.0,1.186,0.537,1.0,0.4,0.3,0.2,0.1
+Lockheed Martin Corporation,Industrials,2.508,5.0,2.431,0.778,0.91,0.25,0.4,0.25,0.1
+Waters Corporation,Healthcare,2.502,4.227,2.133,1.9,1.405,0.25,0.3,0.35,0.1
+Eli Lilly and Company,Healthcare,2.392,3.682,2.349,2.02,0.595,0.25,0.3,0.35,0.1
+Cencora,Healthcare,2.385,5.0,3.528,0.06,0.557,0.25,0.3,0.35,0.1
+Otis Worldwide Corporation,Industrials,2.312,0.0,5.0,0.951,0.744,0.25,0.4,0.25,0.1
+Broadcom Inc.,Technology,2.304,3.19,1.732,2.43,2.089,0.2,0.35,0.35,0.1
+Amgen Inc.,Healthcare,2.3,5.0,0.974,1.867,1.044,0.25,0.3,0.35,0.1
+AbbVie Inc.,Healthcare,2.292,3.553,2.0,2.14,0.551,0.25,0.3,0.35,0.1
+"Fortinet, Inc.",Technology,2.277,0.0,5.0,1.253,0.881,0.2,0.35,0.35,0.1
+Lam Research Corporation,Technology,2.267,2.984,2.507,1.597,2.341,0.2,0.35,0.35,0.1
+Mettler-Toledo International Inc.,Healthcare,2.261,0.0,4.954,2.027,0.658,0.25,0.3,0.35,0.1
+"NetApp, Inc.",Technology,2.258,5.0,2.449,0.86,1.0,0.2,0.35,0.35,0.1
+Johnson & Johnson,Healthcare,2.247,3.871,2.02,1.713,0.734,0.25,0.3,0.35,0.1
+"W.W. Grainger, Inc.",Industrials,2.236,2.742,2.732,0.963,2.165,0.25,0.4,0.25,0.1
+"Motorola Solutions, Inc.",Technology,2.226,5.0,2.007,1.285,0.733,0.2,0.35,0.35,0.1
+Bristol-Myers Squibb Company,Healthcare,2.215,2.068,2.379,2.553,0.905,0.25,0.3,0.35,0.1
+The Clorox Company,Consumer Defensive,2.152,3.761,2.192,1.085,0.96,0.3,0.25,0.35,0.1
+The Sherwin-Williams Company,Basic Materials,2.146,3.994,2.149,1.135,0.546,0.25,0.35,0.3,0.1
+"CF Industries Holdings, Inc.",Basic Materials,2.132,1.658,2.16,2.369,2.507,0.25,0.35,0.3,0.1
+"Yum! Brands, Inc.",Consumer Cyclical,2.128,0.0,4.013,2.826,0.906,0.25,0.25,0.35,0.15
+"Gartner, Inc.",Technology,2.109,5.0,1.949,1.027,0.674,0.2,0.35,0.35,0.1
+Texas Instruments Incorporated,Technology,2.088,2.092,1.659,2.253,3.0,0.2,0.35,0.35,0.1
+Vistra Corp.,Utilities,2.085,2.927,1.904,0.896,1.639,0.4,0.3,0.2,0.1
+Fastenal Company,Industrials,2.084,1.778,2.545,1.284,3.0,0.25,0.4,0.25,0.1
+"Copart, Inc.",Consumer Cyclical,2.081,1.04,1.285,3.0,3.0,0.25,0.25,0.35,0.15
+"Meta Platforms, Inc.",Communication Services,2.069,1.992,2.104,1.907,2.543,0.2,0.25,0.4,0.15
+Sysco Corporation,Consumer Defensive,2.058,4.894,1.492,0.261,1.253,0.3,0.25,0.35,0.1
+Vertex Pharmaceuticals Incorporated,Healthcare,2.049,1.561,1.723,2.54,2.525,0.25,0.3,0.35,0.1
+"Mid-America Apartment Communities, Inc.",Real Estate,2.041,1.2,3.488,2.508,0.128,0.4,0.3,0.2,0.1
+DaVita Inc.,Healthcare,2.039,4.962,1.385,0.88,0.753,0.25,0.3,0.35,0.1
+Crown Castle Inc.,Real Estate,2.02,3.133,1.628,1.137,0.513,0.4,0.3,0.2,0.1
+"Arista Networks, Inc.",Technology,2.008,1.571,1.913,2.07,3.0,0.2,0.35,0.35,0.1
+"Lamb Weston Holdings, Inc.",Consumer Defensive,1.993,3.972,1.067,1.078,1.576,0.3,0.25,0.35,0.1
+Microsoft Corporation,Technology,1.981,1.908,1.949,2.247,1.311,0.2,0.35,0.35,0.1
+"Applied Materials, Inc.",Technology,1.978,2.277,2.246,1.554,1.926,0.2,0.35,0.35,0.1
+Veralto Corporation,Industrials,1.968,3.129,1.772,1.414,1.233,0.25,0.4,0.25,0.1
+Fair Isaac Corporation,Technology,1.967,0.0,3.014,2.285,1.119,0.2,0.35,0.35,0.1
+VICI Properties Inc.,Real Estate,1.962,1.32,1.791,2.984,3.0,0.4,0.3,0.2,0.1
+Oracle Corporation,Technology,1.933,5.0,1.0,1.473,0.674,0.2,0.35,0.35,0.1
+FactSet Research Systems Inc.,Financial Services,1.932,2.388,1.802,1.223,1.331,0.45,0.3,0.15,0.1
+"Airbnb, Inc.",Consumer Cyclical,1.93,2.95,2.192,1.33,1.194,0.25,0.25,0.35,0.15
+"Altria Group, Inc.",Consumer Defensive,1.918,0.0,3.275,3.0,0.495,0.3,0.25,0.35,0.1
+Alphabet Inc.,Communication Services,1.915,2.031,2.427,1.505,2.0,0.2,0.25,0.4,0.15
+"Marsh & McLennan Companies, Inc.",Financial Services,1.914,2.545,1.79,0.939,0.909,0.45,0.3,0.15,0.1
+The Hershey Company,Consumer Defensive,1.898,2.522,2.033,1.529,0.98,0.3,0.25,0.35,0.1
+"Old Dominion Freight Line, Inc.",Industrials,1.888,1.5,2.309,1.728,1.579,0.25,0.4,0.25,0.1
+"Gilead Sciences, Inc.",Healthcare,1.867,1.886,1.651,2.307,0.924,0.25,0.3,0.35,0.1
+"NVR, Inc.",Consumer Cyclical,1.857,1.834,1.735,1.47,3.0,0.25,0.25,0.35,0.15
+Gen Digital Inc.,Technology,1.824,3.332,1.239,1.978,0.319,0.2,0.35,0.35,0.1
+MarketAxess Holdings Inc.,Financial Services,1.822,1.653,2.099,1.717,1.909,0.45,0.3,0.15,0.1
+"Autodesk, Inc.",Technology,1.79,3.908,1.638,1.065,0.622,0.2,0.35,0.35,0.1
+"T. Rowe Price Group, Inc.",Financial Services,1.769,1.554,1.926,1.279,3.0,0.45,0.3,0.15,0.1
+Adobe Inc.,Technology,1.757,1.788,1.87,1.844,0.993,0.2,0.35,0.35,0.1
+Deckers Outdoor Corporation,Consumer Cyclical,1.747,1.472,1.669,1.565,2.763,0.25,0.25,0.35,0.15
+A. O. Smith Corporation,Industrials,1.746,1.557,2.333,1.216,1.195,0.25,0.4,0.25,0.1
+ResMed Inc.,Healthcare,1.729,1.644,1.651,1.787,1.975,0.25,0.3,0.35,0.1
+Fifth Third Bancorp,Financial Services,1.728,1.008,2.667,3.0,0.24,0.45,0.3,0.15,0.1
+"Steel Dynamics, Inc.",Basic Materials,1.727,1.714,2.149,1.184,1.914,0.25,0.35,0.3,0.1
+Caterpillar Inc.,Industrials,1.717,2.732,1.537,1.272,1.015,0.25,0.4,0.25,0.1
+"EOG Resources, Inc.",Energy,1.717,1.36,1.899,1.676,1.984,0.25,0.4,0.25,0.1
+"Regeneron Pharmaceuticals, Inc.",Healthcare,1.716,1.152,1.364,2.053,3.0,0.25,0.3,0.35,0.1
+The J. M. Smucker Company,Consumer Defensive,1.709,0.0,5.0,0.895,1.455,0.3,0.25,0.35,0.1
+American Express Company,Financial Services,1.698,2.463,1.333,0.704,0.843,0.45,0.3,0.15,0.1
+"O'Reilly Automotive, Inc.",Consumer Cyclical,1.67,0.0,3.907,1.757,0.525,0.25,0.25,0.35,0.15
+"Domino's Pizza, Inc.",Consumer Cyclical,1.665,0.0,3.788,1.591,1.072,0.25,0.25,0.35,0.15
+Union Pacific Corporation,Industrials,1.665,2.222,1.171,2.321,0.609,0.25,0.4,0.25,0.1
+Cintas Corporation,Industrials,1.66,1.799,1.789,1.259,1.797,0.25,0.4,0.25,0.1
+The Coca-Cola Company,Consumer Defensive,1.653,2.294,1.142,1.614,1.141,0.3,0.25,0.35,0.1
+"Cadence Design Systems, Inc.",Technology,1.653,1.663,1.833,1.677,0.919,0.2,0.35,0.35,0.1
+Pool Corporation,Industrials,1.651,2.057,1.878,0.833,1.774,0.25,0.4,0.25,0.1
+"West Pharmaceutical Services, Inc.",Healthcare,1.645,1.561,1.795,1.527,1.823,0.25,0.3,0.35,0.1
+Monster Beverage Corporation,Consumer Defensive,1.644,1.1,1.55,1.791,3.0,0.3,0.25,0.35,0.1
+"Rockwell Automation, Inc.",Industrials,1.632,1.851,1.537,1.105,2.782,0.25,0.4,0.25,0.1
+Blackstone Inc.,Financial Services,1.632,1.686,1.753,1.652,1.0,0.45,0.3,0.15,0.1
+"PepsiCo, Inc.",Consumer Defensive,1.628,2.722,1.492,1.007,0.859,0.3,0.25,0.35,0.1
+Booking Holdings Inc.,Consumer Cyclical,1.62,0.0,2.603,2.374,0.921,0.25,0.25,0.35,0.15
+McDonald's Corporation,Consumer Cyclical,1.619,0.0,1.775,3.0,0.835,0.25,0.25,0.35,0.15
+"Enphase Energy, Inc.",Energy,1.613,2.246,1.386,0.789,3.0,0.25,0.4,0.25,0.1
+Microchip Technology Incorporated,Technology,1.61,1.87,1.341,1.984,0.726,0.2,0.35,0.35,0.1
+Globe Life Inc.,Financial Services,1.606,1.785,1.975,0.964,0.661,0.45,0.3,0.15,0.1
+Deere & Company,Industrials,1.603,2.407,1.154,1.586,1.429,0.25,0.4,0.25,0.1
+KKR & Co. Inc.,Financial Services,1.603,1.347,1.444,2.923,1.248,0.45,0.3,0.15,0.1
+eBay Inc.,Consumer Cyclical,1.602,2.176,0.709,1.765,1.755,0.25,0.25,0.35,0.15
+Public Service Enterprise Group Incorporated,Utilities,1.602,1.729,1.635,1.632,0.931,0.4,0.3,0.2,0.1
+McKesson Corporation,Healthcare,1.596,0.0,5.0,0.107,0.582,0.25,0.3,0.35,0.1
+ON Semiconductor Corporation,Technology,1.583,1.527,1.42,1.656,2.007,0.2,0.35,0.35,0.1
+Emerson Electric Co.,Industrials,1.569,3.294,0.626,1.154,2.068,0.25,0.4,0.25,0.1
+Tractor Supply Company,Consumer Cyclical,1.565,2.588,1.781,0.887,1.079,0.25,0.25,0.35,0.15
+"Corpay, Inc.",Technology,1.544,1.625,0.891,2.371,0.77,0.2,0.35,0.35,0.1
+"Tapestry, Inc.",Consumer Cyclical,1.535,2.065,1.139,1.53,1.324,0.25,0.25,0.35,0.15
+Allegion plc,Industrials,1.527,2.113,1.512,1.198,0.947,0.25,0.4,0.25,0.1
+Weyerhaeuser Company,Real Estate,1.527,1.093,2.186,0.671,3.0,0.4,0.3,0.2,0.1
+"Monolithic Power Systems, Inc.",Technology,1.526,1.136,1.435,1.419,3.0,0.2,0.35,0.35,0.1
+"Cboe Global Markets, Inc.",Financial Services,1.526,1.579,1.753,1.142,1.182,0.45,0.3,0.15,0.1
+MSCI Inc.,Financial Services,1.517,0.0,3.691,2.219,0.769,0.45,0.3,0.15,0.1
+"Intuitive Surgical, Inc.",Healthcare,1.516,1.023,1.271,1.653,3.0,0.25,0.3,0.35,0.1
+Devon Energy Corporation,Energy,1.512,1.566,1.784,1.279,0.87,0.25,0.4,0.25,0.1
+Bio-Techne Corporation,Healthcare,1.508,1.098,1.066,1.753,3.0,0.25,0.3,0.35,0.1
+"D.R. Horton, Inc.",Consumer Cyclical,1.508,1.05,0.98,1.574,3.0,0.25,0.25,0.35,0.15
+"Cisco Systems, Inc.",Technology,1.504,1.543,1.703,1.419,1.022,0.2,0.35,0.35,0.1
+"NextEra Energy, Inc.",Utilities,1.501,1.604,1.404,1.811,0.764,0.4,0.3,0.2,0.1
+CSX Corporation,Industrials,1.5,1.577,1.114,2.327,0.789,0.25,0.4,0.25,0.1
+Valero Energy Corporation,Energy,1.5,1.687,2.165,0.34,1.268,0.25,0.4,0.25,0.1
+"Rollins, Inc.",Consumer Cyclical,1.49,1.889,1.45,1.652,0.511,0.25,0.25,0.35,0.15
+Masco Corporation,Industrials,1.489,0.0,2.756,1.043,1.263,0.25,0.4,0.25,0.1
+"BlackRock, Inc.",Financial Services,1.487,1.157,1.457,1.526,3.0,0.45,0.3,0.15,0.1
+Entergy Corporation,Utilities,1.484,1.677,1.731,1.075,0.792,0.4,0.3,0.2,0.1
+"Expeditors International of Washington, Inc.",Industrials,1.481,1.624,1.943,0.623,1.421,0.25,0.4,0.25,0.1
+"Agilent Technologies, Inc.",Healthcare,1.478,1.606,1.497,1.32,1.652,0.25,0.3,0.35,0.1
+Aon plc,Financial Services,1.474,0.0,4.012,1.251,0.826,0.45,0.3,0.15,0.1
+QUALCOMM Incorporated,Technology,1.473,1.821,1.507,1.167,1.726,0.2,0.35,0.35,0.1
+"Netflix, Inc.",Communication Services,1.472,2.055,1.792,1.132,1.067,0.2,0.25,0.4,0.15
+Snap-on Incorporated,Industrials,1.47,1.026,1.317,1.58,2.917,0.25,0.4,0.25,0.1
+The Procter & Gamble Company,Consumer Defensive,1.464,1.739,1.492,1.444,0.636,0.3,0.25,0.35,0.1
+Philip Morris International Inc.,Consumer Defensive,1.464,0.0,2.25,2.359,0.758,0.3,0.25,0.35,0.1
+"The TJX Companies, Inc.",Consumer Cyclical,1.463,2.764,1.325,0.887,0.871,0.25,0.25,0.35,0.15
+"Match Group, Inc.",Communication Services,1.46,0.0,2.083,1.495,2.276,0.2,0.25,0.4,0.15
+"Super Micro Computer, Inc.",Technology,1.453,1.761,2.08,0.575,1.711,0.2,0.35,0.35,0.1
+Honeywell International Inc.,Industrials,1.443,1.84,1.39,1.327,0.955,0.25,0.4,0.25,0.1
+Freeport-McMoRan Inc.,Basic Materials,1.438,0.689,1.532,1.901,1.592,0.25,0.35,0.3,0.1
+"Builders FirstSource, Inc.",Industrials,1.434,1.675,1.715,0.784,1.331,0.25,0.4,0.25,0.1
+"Chipotle Mexican Grill, Inc.",Consumer Cyclical,1.429,2.015,1.099,1.374,1.129,0.25,0.25,0.35,0.15
+"Charter Communications, Inc.",Communication Services,1.424,3.211,0.927,1.264,0.295,0.2,0.25,0.4,0.15
+"PayPal Holdings, Inc.",Financial Services,1.416,1.669,1.519,0.684,1.066,0.45,0.3,0.15,0.1
+Marathon Petroleum Corporation,Energy,1.415,1.999,1.734,0.368,1.293,0.25,0.4,0.25,0.1
+Omnicom Group Inc.,Communication Services,1.411,2.812,1.594,0.786,0.905,0.2,0.25,0.4,0.15
+NXP Semiconductors N.V.,Technology,1.41,1.761,1.13,1.489,1.415,0.2,0.35,0.35,0.1
+"Paycom Software, Inc.",Technology,1.408,1.424,1.543,1.43,0.822,0.2,0.35,0.35,0.1
+TransDigm Group Incorporated,Industrials,1.395,0.0,1.024,2.741,3.0,0.25,0.4,0.25,0.1
+Ferguson plc,Industrials,1.39,1.933,1.61,0.549,1.256,0.25,0.4,0.25,0.1
+"AutoZone, Inc.",Consumer Cyclical,1.389,0.0,2.788,1.73,0.576,0.25,0.25,0.35,0.15
+Insulet Corporation,Healthcare,1.383,2.136,1.087,0.867,2.196,0.25,0.3,0.35,0.1
+"Diamondback Energy, Inc.",Energy,1.363,0.952,1.269,2.219,0.626,0.25,0.4,0.25,0.1
+The Progressive Corporation,Financial Services,1.362,1.587,1.778,0.32,0.669,0.45,0.3,0.15,0.1
+"DexCom, Inc.",Healthcare,1.362,1.985,1.005,1.1,1.797,0.25,0.3,0.35,0.1
+Las Vegas Sands Corp.,Consumer Cyclical,1.362,1.487,0.682,1.939,0.942,0.25,0.25,0.35,0.15
+Trane Technologies plc,Industrials,1.355,1.49,1.61,1.012,0.85,0.25,0.4,0.25,0.1
+Veeva Systems Inc.,Healthcare,1.351,0.992,1.19,1.42,2.494,0.25,0.3,0.35,0.1
+Lennar Corporation,Consumer Cyclical,1.344,0.744,0.874,1.4,3.0,0.25,0.25,0.35,0.15
+JPMorgan Chase & Co.,Financial Services,1.344,1.248,0.802,1.611,3.0,0.45,0.3,0.15,0.1
+"Martin Marietta Materials, Inc.",Basic Materials,1.339,0.907,1.106,1.681,2.204,0.25,0.35,0.3,0.1
+The Charles Schwab Corporation,Financial Services,1.334,1.025,0.914,1.992,3.0,0.45,0.3,0.15,0.1
+HP Inc.,Technology,1.331,0.0,3.304,0.344,0.541,0.2,0.35,0.35,0.1
+"CBRE Group, Inc.",Real Estate,1.324,1.587,1.721,0.112,1.5,0.4,0.3,0.2,0.1
+"Host Hotels & Resorts, Inc.",Real Estate,1.316,1.493,1.605,0.498,1.372,0.4,0.3,0.2,0.1
+"United Parcel Service, Inc.",Industrials,1.316,2.0,1.447,0.617,0.827,0.25,0.4,0.25,0.1
+"NIKE, Inc.",Consumer Cyclical,1.311,1.819,1.046,0.861,1.957,0.25,0.25,0.35,0.15
+"United Rentals, Inc.",Industrials,1.309,1.536,1.13,1.648,0.609,0.25,0.4,0.25,0.1
+W. R. Berkley Corporation,Financial Services,1.308,1.529,1.654,0.587,0.355,0.45,0.3,0.15,0.1
+"Expedia Group, Inc.",Consumer Cyclical,1.293,2.613,0.834,0.991,0.561,0.25,0.25,0.35,0.15
+Halliburton Company,Energy,1.291,1.415,1.476,0.717,1.675,0.25,0.4,0.25,0.1
+"Keysight Technologies, Inc.",Technology,1.29,1.234,1.145,1.339,1.741,0.2,0.35,0.35,0.1
+Royal Caribbean Cruises Ltd.,Consumer Cyclical,1.287,1.804,0.728,1.809,0.137,0.25,0.25,0.35,0.15
+"The Interpublic Group of Companies, Inc.",Communication Services,1.285,2.18,1.594,0.747,1.01,0.2,0.25,0.4,0.15
+"The PNC Financial Services Group, Inc.",Financial Services,1.284,0.901,1.296,3.0,0.397,0.45,0.3,0.15,0.1
+Hubbell Incorporated,Industrials,1.282,1.361,1.301,1.191,1.233,0.25,0.4,0.25,0.1
+Cincinnati Financial Corporation,Financial Services,1.266,1.256,1.753,0.919,0.372,0.45,0.3,0.15,0.1
+PACCAR Inc,Industrials,1.261,1.495,1.285,1.043,1.12,0.25,0.4,0.25,0.1
+Garmin Ltd.,Technology,1.252,1.0,1.159,1.124,2.526,0.2,0.35,0.35,0.1
+UnitedHealth Group Incorporated,Healthcare,1.25,1.909,1.733,0.58,0.5,0.25,0.3,0.35,0.1
+Synchrony Financial,Financial Services,1.25,1.331,0.815,0.862,2.769,0.45,0.3,0.15,0.1
+CDW Corporation,Technology,1.249,2.94,1.203,0.425,0.911,0.2,0.35,0.35,0.1
+"Molina Healthcare, Inc.",Healthcare,1.24,1.962,1.815,0.307,0.975,0.25,0.3,0.35,0.1
+SBA Communications Corporation,Real Estate,1.24,0.0,3.116,1.294,0.462,0.4,0.3,0.2,0.1
+Accenture plc,Technology,1.239,1.457,1.696,0.737,0.963,0.2,0.35,0.35,0.1
+"Teradyne, Inc.",Technology,1.237,0.967,1.239,1.048,2.43,0.2,0.35,0.35,0.1
+CME Group Inc.,Financial Services,1.234,1.0,1.086,2.494,0.843,0.45,0.3,0.15,0.1
+Berkshire Hathaway Inc.,Financial Services,1.223,1.413,0.691,0.534,3.0,0.45,0.3,0.15,0.1
+"The Hartford Financial Services Group, Inc.",Financial Services,1.219,1.347,1.679,0.547,0.273,0.45,0.3,0.15,0.1
+"Darden Restaurants, Inc.",Consumer Cyclical,1.215,2.241,1.0,1.0,0.367,0.25,0.25,0.35,0.15
+"Best Buy Co., Inc.",Consumer Cyclical,1.21,2.553,1.391,0.339,0.705,0.25,0.25,0.35,0.15
+Solventum Corporation,Healthcare,1.204,1.538,0.985,1.2,1.044,0.25,0.3,0.35,0.1
+Amphenol Corporation,Technology,1.201,1.255,1.159,1.097,1.607,0.2,0.35,0.35,0.1
+"Brown & Brown, Inc.",Financial Services,1.201,1.289,1.21,1.154,0.851,0.45,0.3,0.15,0.1
+PG&E Corporation,Utilities,1.199,0.938,2.0,0.542,1.153,0.4,0.3,0.2,0.1
+Linde plc,Basic Materials,1.197,0.969,1.096,1.73,0.526,0.25,0.35,0.3,0.1
+Nordson Corporation,Industrials,1.196,0.969,1.0,1.58,1.586,0.25,0.4,0.25,0.1
+Stryker Corporation,Healthcare,1.192,1.288,1.087,1.267,1.0,0.25,0.3,0.35,0.1
+"Consolidated Edison, Inc.",Utilities,1.188,1.24,1.115,1.085,1.403,0.4,0.3,0.2,0.1
+IDEX Corporation,Industrials,1.174,0.866,0.976,1.401,2.173,0.25,0.4,0.25,0.1
+The Southern Company,Utilities,1.173,1.312,1.038,1.149,1.069,0.4,0.3,0.2,0.1
+Pentair plc,Industrials,1.165,1.0,1.236,1.185,1.241,0.25,0.4,0.25,0.1
+ConocoPhillips,Energy,1.165,1.118,1.244,1.085,1.163,0.25,0.4,0.25,0.1
+M&T Bank Corporation,Financial Services,1.165,0.843,0.84,1.559,3.0,0.45,0.3,0.15,0.1
+Packaging Corporation of America,Consumer Cyclical,1.153,0.96,0.801,1.243,1.849,0.25,0.25,0.35,0.15
+"Skyworks Solutions, Inc.",Technology,1.152,0.88,0.971,1.269,1.919,0.2,0.35,0.35,0.1
+"Synopsys, Inc.",Technology,1.152,1.087,1.261,1.167,0.852,0.2,0.35,0.35,0.1
+Norwegian Cruise Line Holdings Ltd.,Consumer Cyclical,1.149,2.774,0.424,0.948,0.115,0.25,0.25,0.35,0.15
+"American Water Works Company, Inc.",Utilities,1.149,1.0,1.019,1.766,0.903,0.4,0.3,0.2,0.1
+"Essex Property Trust, Inc.",Real Estate,1.146,1.0,1.0,1.026,2.41,0.4,0.3,0.2,0.1
+"Waste Management, Inc.",Industrials,1.145,1.722,0.943,1.08,0.677,0.25,0.4,0.25,0.1
+DTE Energy Company,Utilities,1.141,1.312,1.192,0.876,0.833,0.4,0.3,0.2,0.1
+Chubb Limited,Financial Services,1.14,1.256,1.432,0.765,0.306,0.45,0.3,0.15,0.1
+Vulcan Materials Company,Basic Materials,1.138,0.776,1.0,1.284,2.086,0.25,0.35,0.3,0.1
+Invitation Homes Inc.,Real Estate,1.137,0.68,1.279,0.907,3.0,0.4,0.3,0.2,0.1
+Celanese Corporation,Basic Materials,1.126,1.714,1.032,0.787,1.007,0.25,0.35,0.3,0.1
+"WEC Energy Group, Inc.",Utilities,1.122,1.177,1.135,1.169,0.764,0.4,0.3,0.2,0.1
+"Church & Dwight Co., Inc.",Consumer Defensive,1.12,1.089,1.092,1.176,1.091,0.3,0.25,0.35,0.1
+"Assurant, Inc.",Financial Services,1.108,1.107,0.914,0.235,3.0,0.45,0.3,0.15,0.1
+Incyte Corporation,Healthcare,1.108,0.871,0.871,1.12,2.373,0.25,0.3,0.35,0.1
+NVIDIA Corporation,Technology,1.101,1.076,0.942,0.844,2.607,0.2,0.35,0.35,0.1
+Huntington Bancshares Incorporated,Financial Services,1.1,0.835,0.765,1.3,3.0,0.45,0.3,0.15,0.1
+"Jack Henry & Associates, Inc.",Technology,1.1,1.239,1.188,1.242,0.022,0.2,0.35,0.35,0.1
+IQVIA Holdings Inc.,Healthcare,1.098,1.682,0.995,0.927,0.544,0.25,0.3,0.35,0.1
+"Tesla, Inc.",Consumer Cyclical,1.094,1.206,1.305,0.8,1.245,0.25,0.25,0.35,0.15
+"Delta Air Lines, Inc.",Industrials,1.094,2.139,0.959,0.586,0.293,0.25,0.4,0.25,0.1
+Kimco Realty Corporation,Real Estate,1.086,0.92,0.698,1.045,3.0,0.4,0.3,0.2,0.1
+Aptiv PLC,Consumer Cyclical,1.086,1.276,1.377,0.678,1.237,0.25,0.25,0.35,0.15
+Kellanova,Consumer Defensive,1.086,1.667,1.025,0.752,0.667,0.3,0.25,0.35,0.1
+Abbott Laboratories,Healthcare,1.079,1.121,1.066,1.073,1.038,0.25,0.3,0.35,0.1
+"Align Technology, Inc.",Healthcare,1.077,0.932,1.241,1.133,0.747,0.25,0.3,0.35,0.1
+Alliant Energy Corporation,Utilities,1.077,1.083,1.115,1.164,0.764,0.4,0.3,0.2,0.1
+GE HealthCare Technologies Inc.,Healthcare,1.074,1.667,1.005,0.827,0.665,0.25,0.3,0.35,0.1
+MGM Resorts International,Consumer Cyclical,1.071,1.508,0.907,0.852,1.129,0.25,0.25,0.35,0.15
+Constellation Energy Corporation,Utilities,1.07,1.552,0.712,0.269,1.819,0.4,0.3,0.2,0.1
+Xcel Energy Inc.,Utilities,1.067,1.042,1.231,0.905,1.0,0.4,0.3,0.2,0.1
+"First Solar, Inc.",Energy,1.067,0.624,0.904,1.045,2.886,0.25,0.4,0.25,0.1
+Hilton Worldwide Holdings Inc.,Consumer Cyclical,1.059,0.0,1.291,1.887,0.504,0.25,0.25,0.35,0.15
+"Air Products and Chemicals, Inc.",Basic Materials,1.057,1.0,0.851,1.404,0.875,0.25,0.35,0.3,0.1
+Howmet Aerospace Inc.,Industrials,1.054,0.979,0.976,1.117,1.398,0.25,0.4,0.25,0.1
+Campbell Soup Company,Consumer Defensive,1.054,1.3,1.0,0.915,0.939,0.3,0.25,0.35,0.1
+CMS Energy Corporation,Utilities,1.052,1.229,0.865,0.826,1.361,0.4,0.3,0.2,0.1
+Comcast Corporation,Communication Services,1.048,1.453,1.0,1.055,0.571,0.2,0.25,0.4,0.15
+"AMETEK, Inc.",Industrials,1.044,0.773,0.943,1.599,0.737,0.25,0.4,0.25,0.1
+"The Williams Companies, Inc.",Energy,1.043,1.289,0.68,1.543,0.626,0.25,0.4,0.25,0.1
+Ecolab Inc.,Basic Materials,1.042,1.062,1.117,1.0,0.855,0.25,0.35,0.3,0.1
+"HCA Healthcare, Inc.",Healthcare,1.042,0.0,2.071,0.987,0.747,0.25,0.3,0.35,0.1
+International Business Machines Corporation,Technology,1.041,1.81,0.826,0.914,0.696,0.2,0.35,0.35,0.1
+Dover Corporation,Industrials,1.039,1.067,1.049,1.0,1.023,0.25,0.4,0.25,0.1
+Schlumberger Limited,Energy,1.035,1.048,1.22,0.713,1.073,0.25,0.4,0.25,0.1
+Cognizant Technology Solutions Corporation,Technology,1.033,0.875,1.159,0.817,1.667,0.2,0.35,0.35,0.1
+Kenvue Inc.,Consumer Defensive,1.032,0.822,0.95,1.242,1.131,0.3,0.25,0.35,0.1
+Starbucks Corporation,Consumer Cyclical,1.027,0.0,1.788,1.417,0.561,0.25,0.25,0.35,0.15
+"Marriott International, Inc.",Consumer Cyclical,1.026,0.0,1.934,1.417,0.309,0.25,0.25,0.35,0.15
+"AvalonBay Communities, Inc.",Real Estate,1.025,1.053,1.023,1.0,0.974,0.4,0.3,0.2,0.1
+"Wynn Resorts, Limited",Consumer Cyclical,1.019,0.0,1.49,1.252,1.388,0.25,0.25,0.35,0.15
+Thermo Fisher Scientific Inc.,Healthcare,1.017,0.97,0.882,1.14,1.108,0.25,0.3,0.35,0.1
+Extra Space Storage Inc.,Real Estate,1.014,0.747,1.047,1.46,1.09,0.4,0.3,0.2,0.1
+Regions Financial Corporation,Financial Services,1.011,0.983,1.284,1.186,0.058,0.45,0.3,0.15,0.1
+"Equinix, Inc.",Real Estate,1.011,1.04,1.116,0.575,1.449,0.4,0.3,0.2,0.1
+Ralph Lauren Corporation,Consumer Cyclical,1.008,1.08,0.662,0.948,1.604,0.25,0.25,0.35,0.15
+"CenterPoint Energy, Inc.",Utilities,1.005,0.99,1.0,1.005,1.083,0.4,0.3,0.2,0.1
+"ANSYS, Inc.",Technology,1.004,0.505,0.609,1.484,1.704,0.2,0.35,0.35,0.1
+EQT Corporation,Energy,0.999,0.594,0.772,1.846,0.805,0.25,0.4,0.25,0.1
+Ameren Corporation,Utilities,0.999,1.062,0.923,1.035,0.903,0.4,0.3,0.2,0.1
+"Analog Devices, Inc.",Technology,0.996,0.505,0.594,1.672,1.015,0.2,0.35,0.35,0.1
+Arch Capital Group Ltd.,Financial Services,0.994,2.0,0.136,0.057,0.446,0.45,0.3,0.15,0.1
+"T-Mobile US, Inc.",Communication Services,0.991,1.0,1.042,1.0,0.867,0.2,0.25,0.4,0.15
+NiSource Inc.,Utilities,0.987,0.896,0.923,1.169,1.181,0.4,0.3,0.2,0.1
+Fox Corporation,Communication Services,0.986,0.93,0.885,0.758,1.838,0.2,0.25,0.4,0.15
+Atmos Energy Corporation,Utilities,0.986,0.854,1.019,1.244,0.903,0.4,0.3,0.2,0.1
+"General Mills, Inc.",Consumer Defensive,0.985,1.378,0.8,0.863,0.697,0.3,0.25,0.35,0.1
+FirstEnergy Corp.,Utilities,0.984,1.104,1.0,0.876,0.667,0.4,0.3,0.2,0.1
+U.S. Bancorp,Financial Services,0.983,0.81,0.568,0.988,3.0,0.45,0.3,0.15,0.1
+Avery Dennison Corporation,Industrials,0.982,1.216,1.057,0.71,0.782,0.25,0.4,0.25,0.1
+Eaton Corporation plc,Industrials,0.98,0.871,0.959,1.062,1.135,0.25,0.4,0.25,0.1
+Hess Corporation,Energy,0.979,0.776,1.012,1.178,0.854,0.25,0.4,0.25,0.1
+Genuine Parts Company,Consumer Cyclical,0.975,1.503,0.94,0.661,0.885,0.25,0.25,0.35,0.15
+Costco Wholesale Corporation,Consumer Defensive,0.973,1.394,1.475,0.222,1.081,0.3,0.25,0.35,0.1
+Targa Resources Corp.,Energy,0.971,1.535,0.954,0.567,0.642,0.25,0.4,0.25,0.1
+"Broadridge Financial Solutions, Inc.",Technology,0.97,1.527,0.949,0.828,0.43,0.2,0.35,0.35,0.1
+Quest Diagnostics Incorporated,Healthcare,0.968,1.023,0.964,0.973,0.829,0.25,0.3,0.35,0.1
+Danaher Corporation,Healthcare,0.968,0.674,0.615,1.453,1.063,0.25,0.3,0.35,0.1
+Sempra,Utilities,0.962,1.115,0.827,0.965,0.75,0.4,0.3,0.2,0.1
+Exelon Corporation,Utilities,0.96,0.938,0.962,0.92,1.125,0.4,0.3,0.2,0.1
+"Hologic, Inc.",Healthcare,0.958,0.689,0.595,1.107,2.196,0.25,0.3,0.35,0.1
+Equity Residential,Real Estate,0.957,1.0,1.116,1.003,0.218,0.4,0.3,0.2,0.1
+"Caesars Entertainment, Inc.",Consumer Cyclical,0.951,0.869,0.0,1.861,0.547,0.25,0.25,0.35,0.15
+Federal Realty Investment Trust,Real Estate,0.946,1.067,0.302,1.147,1.987,0.4,0.3,0.2,0.1
+"UDR, Inc.",Real Estate,0.939,1.48,0.651,0.562,0.397,0.4,0.3,0.2,0.1
+"EPAM Systems, Inc.",Technology,0.935,0.652,0.841,0.602,3.0,0.2,0.35,0.35,0.1
+"Evergy, Inc.",Utilities,0.928,0.792,1.038,1.144,0.708,0.4,0.3,0.2,0.1
+AT&T Inc.,Communication Services,0.928,1.086,0.75,1.055,0.676,0.2,0.25,0.4,0.15
+Marathon Oil Corporation,Energy,0.928,0.7,0.913,1.421,0.325,0.25,0.4,0.25,0.1
+Verizon Communications Inc.,Communication Services,0.927,0.984,0.635,1.181,0.657,0.2,0.25,0.4,0.15
+Edison International,Utilities,0.926,0.948,0.923,0.801,1.097,0.4,0.3,0.2,0.1
+Eastman Chemical Company,Basic Materials,0.924,1.019,0.936,0.844,0.888,0.25,0.35,0.3,0.1
+Intuit Inc.,Technology,0.922,0.75,0.717,1.177,1.089,0.2,0.35,0.35,0.1
+"Zimmer Biomet Holdings, Inc.",Healthcare,0.92,0.621,0.749,1.253,1.019,0.25,0.3,0.35,0.1
+"Charles River Laboratories International, Inc.",Healthcare,0.918,1.0,0.739,1.0,0.962,0.25,0.3,0.35,0.1
+"American Electric Power Company, Inc.",Utilities,0.915,0.917,0.962,0.93,0.736,0.4,0.3,0.2,0.1
+Coterra Energy Inc.,Energy,0.915,0.624,0.796,1.368,0.984,0.25,0.4,0.25,0.1
+"C.H. Robinson Worldwide, Inc.",Industrials,0.913,1.18,1.163,0.191,1.053,0.25,0.4,0.25,0.1
+Amcor plc,Consumer Cyclical,0.912,1.286,0.781,0.896,0.547,0.25,0.25,0.35,0.15
+"United Airlines Holdings, Inc.",Industrials,0.904,1.448,0.829,0.593,0.624,0.25,0.4,0.25,0.1
+"Dominion Energy, Inc.",Utilities,0.903,0.75,0.712,1.224,1.444,0.4,0.3,0.2,0.1
+Teleflex Incorporated,Healthcare,0.898,0.606,0.676,1.133,1.468,0.25,0.3,0.35,0.1
+Camden Property Trust,Real Estate,0.894,1.08,0.814,0.671,0.833,0.4,0.3,0.2,0.1
+TE Connectivity Ltd.,Technology,0.893,0.897,0.891,0.774,1.311,0.2,0.35,0.35,0.1
+Jabil Inc.,Technology,0.892,1.549,1.181,0.237,0.859,0.2,0.35,0.35,0.1
+"J.B. Hunt Transport Services, Inc.",Industrials,0.89,0.918,1.122,0.494,0.88,0.25,0.4,0.25,0.1
+"Boston Properties, Inc.",Real Estate,0.889,0.427,0.721,1.01,3.0,0.4,0.3,0.2,0.1
+"Intercontinental Exchange, Inc.",Financial Services,0.888,0.76,0.79,1.51,0.826,0.45,0.3,0.15,0.1
+Exxon Mobil Corporation,Energy,0.888,0.886,1.037,0.526,1.203,0.25,0.4,0.25,0.1
+"PPG Industries, Inc.",Basic Materials,0.887,1.006,0.968,0.667,0.967,0.25,0.35,0.3,0.1
+General Electric Company,Industrials,0.885,1.784,0.512,0.58,0.887,0.25,0.4,0.25,0.1
+State Street Corporation,Financial Services,0.882,0.678,0.531,0.785,3.0,0.45,0.3,0.15,0.1
+"F5, Inc.",Technology,0.88,0.766,0.906,0.903,0.933,0.2,0.35,0.35,0.1
+"Mondelez International, Inc.",Consumer Defensive,0.879,0.972,0.7,1.0,0.626,0.3,0.25,0.35,0.1
+Norfolk Southern Corporation,Industrials,0.879,0.737,0.602,1.444,0.932,0.25,0.4,0.25,0.1
+Duke Energy Corporation,Utilities,0.876,0.604,0.962,1.214,1.028,0.4,0.3,0.2,0.1
+"Prologis, Inc.",Real Estate,0.87,0.773,0.814,1.233,0.705,0.4,0.3,0.2,0.1
+Bunge Limited,Consumer Defensive,0.864,1.15,0.875,0.242,2.152,0.3,0.25,0.35,0.1
+"Republic Services, Inc.",Industrials,0.862,0.845,0.789,1.173,0.421,0.25,0.4,0.25,0.1
+Pinnacle West Capital Corporation,Utilities,0.86,0.844,0.846,0.876,0.931,0.4,0.3,0.2,0.1
+"American International Group, Inc.",Financial Services,0.858,0.661,0.716,0.332,2.959,0.45,0.3,0.15,0.1
+Medtronic plc,Healthcare,0.857,0.553,0.523,1.173,1.513,0.25,0.3,0.35,0.1
+"Fiserv, Inc.",Technology,0.855,0.56,0.536,1.366,0.77,0.2,0.35,0.35,0.1
+Wells Fargo & Company,Financial Services,0.848,0.851,0.58,1.061,1.314,0.45,0.3,0.15,0.1
+Eversource Energy,Utilities,0.829,0.0,1.788,1.0,0.931,0.4,0.3,0.2,0.1
+Boston Scientific Corporation,Healthcare,0.823,0.629,0.666,1.093,0.835,0.25,0.3,0.35,0.1
+"ServiceNow, Inc.",Technology,0.82,1.234,0.957,0.457,0.785,0.2,0.35,0.35,0.1
+"CoStar Group, Inc.",Real Estate,0.82,0.68,0.581,0.367,3.0,0.4,0.3,0.2,0.1
+PTC Inc.,Technology,0.819,0.5,0.536,1.177,1.193,0.2,0.35,0.35,0.1
+Phillips 66,Energy,0.818,1.118,0.954,0.219,1.024,0.25,0.4,0.25,0.1
+Chevron Corporation,Energy,0.818,0.67,0.988,0.607,1.033,0.25,0.4,0.25,0.1
+General Dynamics Corporation,Industrials,0.818,0.804,0.886,0.617,1.083,0.25,0.4,0.25,0.1
+Realty Income Corporation,Real Estate,0.815,0.347,0.698,1.351,1.962,0.4,0.3,0.2,0.1
+"Akamai Technologies, Inc.",Technology,0.813,0.647,0.507,0.989,1.6,0.2,0.35,0.35,0.1
+"Nasdaq, Inc.",Financial Services,0.813,0.81,0.691,1.053,0.835,0.45,0.3,0.15,0.1
+"Etsy, Inc.",Consumer Cyclical,0.812,0.0,1.053,0.887,1.59,0.25,0.25,0.35,0.15
+The Estée Lauder Companies Inc.,Consumer Defensive,0.809,1.0,0.575,0.621,1.475,0.3,0.25,0.35,0.1
+"Constellation Brands, Inc.",Consumer Defensive,0.808,0.0,0.0,1.967,1.192,0.3,0.25,0.35,0.1
+S&P Global Inc.,Financial Services,0.807,0.636,0.852,1.304,0.694,0.45,0.3,0.15,0.1
+Johnson Controls International plc,Industrials,0.804,0.577,1.065,0.642,0.729,0.25,0.4,0.25,0.1
+Keurig Dr Pepper Inc.,Consumer Defensive,0.803,0.472,0.517,1.412,0.384,0.3,0.25,0.35,0.1
+LyondellBasell Industries N.V.,Basic Materials,0.798,1.019,1.011,0.525,0.316,0.25,0.35,0.3,0.1
+"Franklin Resources, Inc.",Financial Services,0.794,0.612,0.444,0.567,3.0,0.45,0.3,0.15,0.1
+Ball Corporation,Consumer Cyclical,0.794,0.945,0.649,0.887,0.568,0.25,0.25,0.35,0.15
+LKQ Corporation,Consumer Cyclical,0.792,0.764,0.576,0.852,1.058,0.25,0.25,0.35,0.15
+PPL Corporation,Utilities,0.792,0.552,0.846,0.975,1.222,0.4,0.3,0.2,0.1
+Baxter International Inc.,Healthcare,0.79,2.394,0.123,0.173,0.937,0.25,0.3,0.35,0.1
+Humana Inc.,Healthcare,0.788,1.159,1.046,0.24,1.006,0.25,0.3,0.35,0.1
+Textron Inc.,Industrials,0.788,0.68,0.821,0.58,1.444,0.25,0.4,0.25,0.1
+Carrier Global Corporation,Industrials,0.788,0.804,0.553,0.642,2.053,0.25,0.4,0.25,0.1
+"ONEOK, Inc.",Energy,0.787,0.811,0.68,0.955,0.732,0.25,0.4,0.25,0.1
+The Kraft Heinz Company,Consumer Defensive,0.784,0.322,0.5,1.32,1.0,0.3,0.25,0.35,0.1
+"McCormick & Company, Incorporated",Consumer Defensive,0.781,0.744,0.65,0.941,0.657,0.3,0.25,0.35,0.1
+Teledyne Technologies Incorporated,Technology,0.777,0.522,0.565,1.0,1.252,0.2,0.35,0.35,0.1
+Fortive Corporation,Technology,0.773,0.457,0.514,1.005,1.496,0.2,0.35,0.35,0.1
+Electronic Arts Inc.,Technology,0.766,0.598,0.63,0.962,0.896,0.2,0.35,0.35,0.1
+"Axon Enterprise, Inc.",Industrials,0.765,0.557,0.618,0.611,2.256,0.25,0.4,0.25,0.1
+"Roper Technologies, Inc.",Industrials,0.763,0.407,0.472,1.741,0.376,0.25,0.4,0.25,0.1
+Ingersoll Rand Inc.,Industrials,0.761,0.412,0.577,1.043,1.669,0.25,0.4,0.25,0.1
+Bank of America Corporation,Financial Services,0.753,0.752,0.519,1.166,0.843,0.45,0.3,0.15,0.1
+"Universal Health Services, Inc.",Healthcare,0.751,0.886,0.831,0.547,0.886,0.25,0.3,0.35,0.1
+Biogen Inc.,Healthcare,0.742,0.591,0.534,0.88,1.266,0.25,0.3,0.35,0.1
+"Henry Schein, Inc.",Healthcare,0.737,0.864,0.934,0.387,1.057,0.25,0.3,0.35,0.1
+"Bio-Rad Laboratories, Inc.",Healthcare,0.725,0.0,0.297,0.96,3.0,0.25,0.3,0.35,0.1
+Equifax Inc.,Industrials,0.706,0.619,0.569,1.093,0.504,0.25,0.4,0.25,0.1
+The Mosaic Company,Basic Materials,0.701,0.59,0.755,0.695,0.803,0.25,0.35,0.3,0.1
+BorgWarner Inc.,Consumer Cyclical,0.701,0.538,0.556,0.713,1.187,0.25,0.25,0.35,0.15
+"DuPont de Nemours, Inc.",Basic Materials,0.697,0.106,0.596,1.007,1.599,0.25,0.35,0.3,0.1
+The Bank of New York Mellon Corporation,Financial Services,0.692,0.661,0.37,0.935,1.43,0.45,0.3,0.15,0.1
+Northern Trust Corporation,Financial Services,0.691,0.769,0.469,0.49,1.306,0.45,0.3,0.15,0.1
+"Huntington Ingalls Industries, Inc.",Industrials,0.69,0.856,0.748,0.42,0.714,0.25,0.4,0.25,0.1
+Zebra Technologies Corporation,Technology,0.683,0.533,0.725,0.699,0.778,0.2,0.35,0.35,0.1
+Hormel Foods Corporation,Consumer Defensive,0.674,0.567,0.633,0.575,1.444,0.3,0.25,0.35,0.1
+Generac Holdings Inc.,Industrials,0.672,0.448,0.602,0.593,1.707,0.25,0.4,0.25,0.1
+Welltower Inc.,Real Estate,0.665,0.173,0.628,0.537,3.0,0.4,0.3,0.2,0.1
+"The Cooper Companies, Inc.",Healthcare,0.648,0.295,0.39,0.987,1.114,0.25,0.3,0.35,0.1
+Loews Corporation,Financial Services,0.638,0.752,0.0,0.0,3.0,0.45,0.3,0.15,0.1
+Parker-Hannifin Corporation,Industrials,0.637,1.041,0.447,0.525,0.662,0.25,0.4,0.25,0.1
+"Amazon.com, Inc.",Consumer Cyclical,0.637,0.759,0.556,0.557,0.755,0.25,0.25,0.35,0.15
+"Prudential Financial, Inc.",Financial Services,0.631,0.736,0.0,0.0,3.0,0.45,0.3,0.15,0.1
+"Palo Alto Networks, Inc.",Technology,0.627,1.37,0.543,0.301,0.578,0.2,0.35,0.35,0.1
+Westinghouse Air Brake Technologies Corporation,Industrials,0.623,0.402,0.553,0.846,0.902,0.25,0.4,0.25,0.1
+Occidental Petroleum Corporation,Energy,0.621,0.624,0.556,0.672,0.748,0.25,0.4,0.25,0.1
+Archer-Daniels-Midland Company,Consumer Defensive,0.621,0.8,0.592,0.203,1.616,0.3,0.25,0.35,0.1
+Walmart Inc.,Consumer Defensive,0.62,0.844,0.833,0.216,0.828,0.3,0.25,0.35,0.1
+Baker Hughes Company,Energy,0.618,0.634,0.664,0.368,1.016,0.25,0.4,0.25,0.1
+"Quanta Services, Inc.",Industrials,0.617,0.613,0.675,0.333,1.105,0.25,0.4,0.25,0.1
+"Healthpeak Properties, Inc.",Real Estate,0.609,0.64,0.651,0.527,0.526,0.4,0.3,0.2,0.1
+Jacobs Engineering Group Inc.,Industrials,0.606,0.526,0.675,0.407,1.03,0.25,0.4,0.25,0.1
+"MetLife, Inc.",Financial Services,0.605,0.438,0.309,0.101,3.0,0.45,0.3,0.15,0.1
+Morgan Stanley,Financial Services,0.602,0.76,0.309,0.891,0.339,0.45,0.3,0.15,0.1
+"Alexandria Real Estate Equities, Inc.",Real Estate,0.602,0.08,0.93,1.204,0.5,0.4,0.3,0.2,0.1
+"Becton, Dickinson and Company",Healthcare,0.592,0.439,0.482,0.727,0.829,0.25,0.3,0.35,0.1
+Molson Coors Beverage Company,Consumer Defensive,0.589,0.4,0.467,0.804,0.707,0.3,0.25,0.35,0.1
+Northrop Grumman Corporation,Industrials,0.587,0.716,0.553,0.401,0.865,0.25,0.4,0.25,0.1
+Regency Centers Corporation,Real Estate,0.586,0.693,0.233,0.786,0.821,0.4,0.3,0.2,0.1
+"Kinder Morgan, Inc.",Energy,0.585,0.398,0.44,1.126,0.285,0.25,0.4,0.25,0.1
+Dell Technologies Inc.,Technology,0.582,0.0,1.188,0.301,0.607,0.2,0.35,0.35,0.1
+"Mohawk Industries, Inc.",Consumer Cyclical,0.575,0.0,0.642,0.635,1.281,0.25,0.25,0.35,0.15
+"Digital Realty Trust, Inc.",Real Estate,0.567,0.667,0.419,0.425,0.897,0.4,0.3,0.2,0.1
+"Cardinal Health, Inc.",Healthcare,0.566,0.0,1.651,0.02,0.633,0.25,0.3,0.35,0.1
+Laboratory Corporation of America Holdings,Healthcare,0.565,0.402,0.585,0.613,0.741,0.25,0.3,0.35,0.1
+CVS Health Corporation,Healthcare,0.564,0.826,0.697,0.267,0.544,0.25,0.3,0.35,0.1
+FedEx Corporation,Industrials,0.564,0.784,0.455,0.333,1.03,0.25,0.4,0.25,0.1
+Seagate Technology Holdings plc,Technology,0.562,2.397,0.0,0.0,0.83,0.2,0.35,0.35,0.1
+General Motors Company,Consumer Cyclical,0.557,0.794,0.311,0.47,0.777,0.25,0.25,0.35,0.15
+"The Trade Desk, Inc.",Technology,0.554,0.451,0.406,0.554,1.274,0.2,0.35,0.35,0.1
+"CarMax, Inc.",Consumer Cyclical,0.553,0.432,0.219,0.313,1.871,0.25,0.25,0.35,0.15
+Xylem Inc.,Industrials,0.546,0.309,0.455,0.617,1.323,0.25,0.4,0.25,0.1
+Trimble Inc.,Technology,0.538,0.375,0.413,0.699,0.741,0.2,0.35,0.35,0.1
+"Juniper Networks, Inc.",Technology,0.537,0.375,0.486,0.452,1.333,0.2,0.35,0.35,0.1
+"The Goldman Sachs Group, Inc.",Financial Services,0.525,0.603,0.136,0.939,0.719,0.45,0.3,0.15,0.1
+Cigna Corporation,Healthcare,0.521,0.848,0.666,0.173,0.487,0.25,0.3,0.35,0.1
+"L3Harris Technologies, Inc.",Industrials,0.52,0.335,0.504,0.642,0.744,0.25,0.4,0.25,0.1
+Global Payments Inc.,Industrials,0.519,0.222,0.285,1.099,0.744,0.25,0.4,0.25,0.1
+"Live Nation Entertainment, Inc.",Communication Services,0.511,0.0,1.083,0.258,0.914,0.2,0.25,0.4,0.15
+Willis Towers Watson Public Limited Company,Financial Services,0.507,0.364,0.037,0.215,3.0,0.45,0.3,0.15,0.1
+"Revvity, Inc.",Healthcare,0.506,0.174,0.256,0.727,1.31,0.25,0.3,0.35,0.1
+Dow Inc.,Basic Materials,0.502,0.199,0.66,0.348,1.164,0.25,0.35,0.3,0.1
+"Conagra Brands, Inc.",Consumer Defensive,0.5,0.433,0.35,0.588,0.768,0.3,0.25,0.35,0.1
+Centene Corporation,Healthcare,0.467,0.795,0.513,0.127,0.703,0.25,0.3,0.35,0.1
+"Tyler Technologies, Inc.",Technology,0.465,0.304,0.37,0.602,0.637,0.2,0.35,0.35,0.1
+Cummins Inc.,Industrials,0.461,0.428,0.463,0.321,0.887,0.25,0.4,0.25,0.1
+Viatris Inc.,Healthcare,0.461,0.023,0.144,0.893,0.994,0.25,0.3,0.35,0.1
+"Qorvo, Inc.",Technology,0.458,0.141,0.181,0.274,2.704,0.2,0.35,0.35,0.1
+Hewlett Packard Enterprise Company,Technology,0.449,0.522,0.413,0.387,0.644,0.2,0.35,0.35,0.1
+"Uber Technologies, Inc.",Technology,0.449,0.913,0.348,0.161,0.881,0.2,0.35,0.35,0.1
+Corning Incorporated,Technology,0.449,0.272,0.391,0.382,1.237,0.2,0.35,0.35,0.1
+American Airlines Group Inc.,Industrials,0.443,0.0,0.699,0.469,0.466,0.25,0.4,0.25,0.1
+"Fidelity National Information Services, Inc.",Technology,0.44,0.0,0.232,0.866,0.556,0.2,0.35,0.35,0.1
+"Principal Financial Group, Inc.",Financial Services,0.44,0.471,0.58,0.227,0.198,0.45,0.3,0.15,0.1
+Pfizer Inc.,Healthcare,0.437,0.182,0.554,0.48,0.576,0.25,0.3,0.35,0.1
+Carnival Corporation & plc,Consumer Cyclical,0.428,0.0,0.404,0.791,0.331,0.25,0.25,0.35,0.15
+Arthur J. Gallagher & Co.,Financial Services,0.42,0.744,0.0,0.0,0.851,0.45,0.3,0.15,0.1
+International Paper Company,Consumer Cyclical,0.42,0.171,0.278,0.365,1.201,0.25,0.25,0.35,0.15
+Albemarle Corporation,Basic Materials,0.409,1.037,0.0,0.177,0.967,0.25,0.35,0.3,0.1
+Ford Motor Company,Consumer Cyclical,0.403,0.513,0.205,0.27,0.863,0.25,0.25,0.35,0.15
+International Flavors & Fragrances Inc.,Basic Materials,0.39,0.0,0.362,0.511,1.099,0.25,0.35,0.3,0.1
+"Corteva, Inc.",Basic Materials,0.373,0.18,0.309,0.39,1.026,0.25,0.35,0.3,0.1
+"Ventas, Inc.",Real Estate,0.37,0.0,0.605,0.473,0.936,0.4,0.3,0.2,0.1
+STERIS plc,Healthcare,0.369,0.136,0.205,0.36,1.475,0.25,0.3,0.35,0.1
+Citigroup Inc.,Financial Services,0.357,0.372,0.148,0.785,0.273,0.45,0.3,0.15,0.1
+Dayforce Inc,Technology,0.327,0.125,0.152,0.473,0.83,0.2,0.35,0.35,0.1
+RTX Corporation,Industrials,0.324,0.273,0.244,0.321,0.782,0.25,0.4,0.25,0.1
+"Stanley Black & Decker, Inc.",Industrials,0.315,0.0,0.341,0.358,0.895,0.25,0.4,0.25,0.1
+The Walt Disney Company,Communication Services,0.313,0.188,0.167,0.209,1.0,0.2,0.25,0.4,0.15
+"Leidos Holdings, Inc.",Technology,0.312,0.255,0.246,0.215,0.993,0.2,0.35,0.35,0.1
+"NRG Energy, Inc.",Utilities,0.305,0.0,0.5,0.065,1.417,0.4,0.3,0.2,0.1
+"Micron Technology, Inc.",Technology,0.3,0.0,0.0,0.0,3.0,0.2,0.35,0.35,0.1
+"Hasbro, Inc.",Consumer Cyclical,0.299,0.0,0.245,0.33,0.813,0.25,0.25,0.35,0.15
+"Salesforce, Inc.",Technology,0.288,0.022,0.094,0.5,0.756,0.2,0.35,0.35,0.1
+Newmont Corporation,Basic Materials,0.281,0.0,0.234,0.39,0.822,0.25,0.35,0.3,0.1
+News Corporation,Communication Services,0.274,0.148,0.115,0.126,1.105,0.2,0.25,0.4,0.15
+The Boeing Company,Industrials,0.252,0.665,0.0,0.0,0.857,0.25,0.4,0.25,0.1
+"Merck & Co., Inc.",Healthcare,0.245,0.076,0.103,0.333,0.791,0.25,0.3,0.35,0.1
+"Advanced Micro Devices, Inc.",Technology,0.241,0.082,0.014,0.097,1.859,0.2,0.35,0.35,0.1
+"Moderna, Inc.",Healthcare,0.217,0.0,0.0,0.0,2.165,0.25,0.3,0.35,0.1
+Invesco Ltd.,Financial Services,0.19,0.0,0.0,0.0,1.901,0.45,0.3,0.15,0.1
+Paramount Global,Communication Services,0.189,0.0,0.0,0.0,1.257,0.2,0.25,0.4,0.15
+Southwest Airlines Co.,Industrials,0.182,0.227,0.065,0.056,0.857,0.25,0.4,0.25,0.1
+Intel Corporation,Technology,0.138,0.087,0.007,0.011,1.141,0.2,0.35,0.35,0.1
+"Tyson Foods, Inc.",Consumer Defensive,0.135,0.0,0.0,0.0,1.354,0.3,0.25,0.35,0.1
+"Warner Bros. Discovery, Inc.",Communication Services,0.133,0.0,0.0,0.0,0.886,0.2,0.25,0.4,0.15
+"CrowdStrike Holdings, Inc.",Technology,0.128,0.0,0.0,0.0,1.281,0.2,0.35,0.35,0.1
+GE Vernova Inc.,Utilities,0.125,0.0,0.0,0.0,1.25,0.4,0.3,0.2,0.1
+"Catalent, Inc.",Healthcare,0.113,0.0,0.0,0.0,1.127,0.25,0.3,0.35,0.1
+Western Digital Corporation,Technology,0.107,0.0,0.0,0.0,1.074,0.2,0.35,0.35,0.1
+3M Company,Industrials,0.081,0.0,0.0,0.0,0.805,0.25,0.4,0.25,0.1
+"Take-Two Interactive Software, Inc.",Technology,0.048,0.0,0.0,0.0,0.481,0.2,0.35,0.35,0.1
+"Walgreens Boots Alliance, Inc.",Healthcare,0.04,0.0,0.0,0.0,0.399,0.25,0.3,0.35,0.1
+Truist Financial Corporation,Financial Services,0.031,0.0,0.0,0.0,0.306,0.45,0.3,0.15,0.1
+The Allstate Corporation,Financial Services,0.022,0.0,0.0,0.0,0.215,0.45,0.3,0.15,0.1
+"Citizens Financial Group, Inc.",Financial Services,,0.545,,0.004,3.0,0.45,0.3,0.15,0.1
+Capital One Financial Corporation,Financial Services,,0.694,,,1.306,0.45,0.3,0.15,0.1
+Elevance Health Inc.,Healthcare,,1.152,,,0.911,0.25,0.3,0.35,0.1
+Edwards Lifesciences Corporation,Healthcare,,1.598,1.876,,2.139,0.25,0.3,0.35,0.1
+KeyCorp,Financial Services,,0.545,,,0.091,0.45,0.3,0.15,0.1
+"PulteGroup, Inc.",Consumer Cyclical,,1.261,,,3.0,0.25,0.25,0.35,0.15
+"Simon Property Group, Inc.",Real Estate,,,0.0,1.585,1.333,0.4,0.3,0.2,0.1
+"The Travelers Companies, Inc.",Financial Services,,0.992,0.0,,0.364,0.45,0.3,0.15,0.1

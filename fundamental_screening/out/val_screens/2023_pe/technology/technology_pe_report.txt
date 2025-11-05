@@ -1,0 +1,77 @@
+# Sector Ratio Screen
+Input file: data/sector_performance_ratios.csv
+Sector: Financial Services | Year: 2023 | Ratio: P/E (resolved as 'P/E Ratio')
+Sorted ascending (lowest first)
+Rows output: 67
+
+Top 10 preview:
+Ticker                                Company Name  P/E Ratio
+   ALL                    The Allstate Corporation    -14.681
+   IVZ                                Invesco Ltd.     -4.731
+   TFC                Truist Financial Corporation     -3.028
+    EG                         Everest Group, Ltd.      0.410
+   SYF                         Synchrony Financial      0.520
+  ACGL                     Arch Capital Group Ltd.      0.522
+   MTB                        M&T Bank Corporation      0.588
+    RF               Regions Financial Corporation      0.589
+ BRK-B                     Berkshire Hathaway Inc.      0.601
+  CINF            Cincinnati Financial Corporation      0.649
+  HBAN          Huntington Bancshares Incorporated      0.663
+    GL                             Globe Life Inc.      0.675
+   CFG              Citizens Financial Group, Inc.      0.690
+   DFS                 Discover Financial Services      0.693
+   AFL                          Aflac Incorporated      0.714
+  FITB                         Fifth Third Bancorp      0.731
+   HIG The Hartford Financial Services Group, Inc.      0.740
+   JPM                        JPMorgan Chase & Co.      0.741
+   COF           Capital One Financial Corporation      0.747
+   WFC                       Wells Fargo & Company      0.763
+   PNC      The PNC Financial Services Group, Inc.      0.764
+    CB                               Chubb Limited      0.773
+     L                           Loews Corporation      0.776
+   BAC                 Bank of America Corporation      0.782
+   USB                                U.S. Bancorp      0.819
+   STT                    State Street Corporation      0.838
+   APO              Apollo Global Management, Inc.      0.910
+   RJF               Raymond James Financial, Inc.      0.924
+    BK     The Bank of New York Mellon Corporation      0.930
+   AIG          American International Group, Inc.      0.933
+   AIZ                              Assurant, Inc.      0.943
+     C                              Citigroup Inc.      0.943
+   BEN                    Franklin Resources, Inc.      0.957
+  TROW                   T. Rowe Price Group, Inc.      0.962
+   KEY                                     KeyCorp      1.023
+  PYPL                       PayPal Holdings, Inc.      1.040
+   WRB                   W. R. Berkley Corporation      1.058
+  NTRS                  Northern Trust Corporation      1.089
+   PRU                  Prudential Financial, Inc.      1.099
+   TRV               The Travelers Companies, Inc.      1.100
+    MS                              Morgan Stanley      1.145
+   AMP                  Ameriprise Financial, Inc.      1.147
+    GS               The Goldman Sachs Group, Inc.      1.191
+   AXP                    American Express Company      1.270
+   WTW Willis Towers Watson Public Limited Company      1.343
+   BLK                             BlackRock, Inc.      1.421
+   CME                              CME Group Inc.      1.553
+   KKR                              KKR & Co. Inc.      1.573
+   AON                                     Aon plc      1.588
+  CBOE                   Cboe Global Markets, Inc.      1.665
+   MMC            Marsh & McLennan Companies, Inc.      1.786
+  SCHW              The Charles Schwab Corporation      1.797
+  NDAQ                                Nasdaq, Inc.      1.820
+   BRO                         Brown & Brown, Inc.      1.873
+  MKTX                   MarketAxess Holdings Inc.      1.965
+   PGR                 The Progressive Corporation      1.986
+   PFG             Principal Financial Group, Inc.      2.053
+   ICE             Intercontinental Exchange, Inc.      2.119
+     V                                   Visa Inc.      2.142
+   FDS               FactSet Research Systems Inc.      2.340
+  MSCI                                   MSCI Inc.      2.408
+    MA                     Mastercard Incorporated      2.497
+   MET                               MetLife, Inc.      2.528
+   MCO                         Moody's Corporation      2.986
+  SPGI                             S&P Global Inc.      3.425
+   AJG                   Arthur J. Gallagher & Co.      3.645
+    BX                             Blackstone Inc.      4.353
+
+Saved → out\technology_pe.csv

@@ -1,0 +1,20 @@
+# Quality Scoring Framework Report
+Input: data\sector_benchmark\sector_performance_ratios_neg_handled.csv
+Year: 2023
+
+Sector-specific weights applied:
+  Technology: {'ROE': 0.2, 'ROIC': 0.35, 'Margin': 0.35, 'Liquidity': 0.1}
+  Financial Services: {'ROE': 0.45, 'ROIC': 0.3, 'Margin': 0.15, 'Liquidity': 0.1}
+  Healthcare: {'ROE': 0.25, 'ROIC': 0.3, 'Margin': 0.35, 'Liquidity': 0.1}
+  Consumer Cyclical: {'ROE': 0.25, 'ROIC': 0.25, 'Margin': 0.35, 'Liquidity': 0.15}
+  Communication Services: {'ROE': 0.2, 'ROIC': 0.25, 'Margin': 0.4, 'Liquidity': 0.15}
+  Industrials: {'ROE': 0.25, 'ROIC': 0.4, 'Margin': 0.25, 'Liquidity': 0.1}
+  Consumer Defensive: {'ROE': 0.3, 'ROIC': 0.25, 'Margin': 0.35, 'Liquidity': 0.1}
+  Energy: {'ROE': 0.25, 'ROIC': 0.4, 'Margin': 0.25, 'Liquidity': 0.1}
+  Real Estate: {'ROE': 0.4, 'ROIC': 0.3, 'Margin': 0.2, 'Liquidity': 0.1}
+  Utilities: {'ROE': 0.4, 'ROIC': 0.3, 'Margin': 0.2, 'Liquidity': 0.1}
+  Basic Materials: {'ROE': 0.25, 'ROIC': 0.35, 'Margin': 0.3, 'Liquidity': 0.1}
+
+Caps applied: {'roe_score': 5.0, 'roic_score': 5.0, 'margin_score': 3.0, 'liquidity_score': 3.0}
+Output file: out\quality_scores_2023.csv
+Rows: 489

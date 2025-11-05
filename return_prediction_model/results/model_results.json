@@ -1,0 +1,45 @@
+{
+  "mean_rank_ic": 0.013686432421591498,
+  "rank_ic_tstat": 0.4957027987031537,
+  "avg_decile_spread": 0.0036562687174079614,
+  "pooled_spearman_ic": 0.022074800236182655,
+  "n_test_periods_used": 75,
+  "min_names_per_date": 20,
+  "horizon_days_band": [
+    60,
+    180
+  ],
+  "sector_neutral": false,
+  "normalize": "zscore",
+  "model_type": "ridge",
+  "features": [
+    "P/E Ratio",
+    "P/S Ratio",
+    "Return On Equity",
+    "Return On Invested Capital",
+    "Return On Assets",
+    "Return On Capital Employed",
+    "Gross Profit Margin",
+    "Operating Profit Margin",
+    "Beta",
+    "Current Ratio",
+    "Quick Ratio",
+    "inv_pe",
+    "inv_ps"
+  ],
+  "coefficients": {
+    "P/E Ratio": -0.003810785673835859,
+    "P/S Ratio": 0.008234121911622871,
+    "Return On Equity": 0.0014886720407099041,
+    "Return On Invested Capital": 0.0033329743763941266,
+    "Return On Assets": 0.0047259874861991236,
+    "Return On Capital Employed": 0.0028597850718907747,
+    "Gross Profit Margin": 0.00797301157657504,
+    "Operating Profit Margin": -0.010042043595489325,
+    "Beta": 0.002224844834305628,
+    "Current Ratio": -0.0015698351922538434,
+    "Quick Ratio": 0.0032099397973074095,
+    "inv_pe": -0.008630091682781948,
+    "inv_ps": 0.0059527236076872825
+  }
+}

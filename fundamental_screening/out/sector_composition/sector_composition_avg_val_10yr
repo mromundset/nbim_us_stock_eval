@@ -1,0 +1,104 @@
+# Sector Aggregates (Means) — Bucketed A–E
+Input: data/us_stock_valuation_clean.csv
+
+Sectors covered: 11
+Metrics present: 34
+
+Company counts by sector:
+                        Company_Count
+Sector                               
+Basic Materials                    22
+Communication Services             17
+Consumer Cyclical                  56
+Consumer Defensive                 35
+Energy                             24
+Financial Services                 67
+Healthcare                         65
+Industrials                        74
+Real Estate                        31
+Technology                         79
+Utilities                          32
+
+------------------------------------------------------------
+## A ScaleValuation
+                          Market Cap  P/E Ratio  P/S Ratio   Price
+Sector                                                            
+Basic Materials         2.864184e+10      43.62       2.43  110.90
+Communication Services  1.687986e+11      20.23       3.03   98.39
+Consumer Cyclical       5.588326e+10      27.98       2.88  217.09
+Consumer Defensive      6.635059e+10     166.36       2.59   88.50
+Energy                  5.068849e+10      30.52       2.55   60.29
+Financial Services      6.489640e+10       5.63       4.12  110.71
+Healthcare              5.908042e+10      60.91       6.10  161.75
+Industrials             3.532778e+10      22.90       2.77  138.15
+Real Estate             2.400811e+10      49.35       9.50  112.88
+Technology              8.058644e+10      39.61       5.86  118.90
+Utilities               2.600970e+10      17.40       2.41   59.38
+
+------------------------------------------------------------
+## B Profitability
+                                EBIT        EBITDA  Gross Profit Margin    Net Income  Operating Profit Margin  Return On Assets  Return On Equity  Return On Invested Capital       Revenue
+Sector                                                                                                                                                                                      
+Basic Materials         1.910084e+09  2.956747e+09                 0.29  1.250474e+09                     0.14              0.06              0.18                        0.11  1.470314e+10
+Communication Services  1.004946e+10  1.686873e+10                 0.47  7.036479e+09                     0.15              0.05             -0.07                        0.10  5.246979e+10
+Consumer Cyclical       2.316152e+09  3.683628e+09                 0.37  1.571775e+09                     0.09              0.09              0.14                        0.16  2.517794e+10
+Consumer Defensive      4.077781e+09  5.418579e+09                 0.38  2.732590e+09                     0.16              0.08             -0.17                        0.14  4.792201e+10
+Energy                  3.259253e+09  6.643629e+09                 0.26  1.936295e+09                     0.06              0.01             -0.15                        0.03  4.157799e+10
+Financial Services      7.374385e+09  4.917743e+09                 0.79  4.221633e+09                     0.28              0.08              0.18                        0.11  2.332858e+10
+Healthcare              3.273184e+09  4.080830e+09                 0.55  2.328473e+09                     0.12              0.07              0.50                        0.11  3.534516e+10
+Industrials             2.288531e+09  3.082955e+09                 0.33  1.490293e+09                     0.15              0.08              0.34                        0.14  1.900902e+10
+Real Estate             9.940235e+08  1.543226e+09                 0.62  6.445136e+08                     0.29              0.04              0.10                       -2.28  3.435711e+09
+Technology              3.785858e+09  4.852129e+09                 0.54  2.906876e+09                     0.17              0.09              0.28                        0.16  1.750615e+10
+Utilities               2.100445e+09  3.852615e+09                 0.42  1.114534e+09                     0.18              0.03              0.11                        0.05  1.176684e+10
+
+------------------------------------------------------------
+## C LevLiquidity
+                        Current Ratio  Interest Coverage Ratio  Long-Term Debt  Quick Ratio  Short-Term Debt  Total Assets    Total Debt  Total Liabilities
+Sector                                                                                                                                                     
+Basic Materials                  2.02                    11.04    6.335627e+09         1.34     6.076239e+08  2.530110e+10  6.895512e+09       1.395798e+10
+Communication Services           1.77                    75.98    3.489545e+10         1.69     2.656037e+09  1.168046e+11  3.736298e+10       7.091120e+10
+Consumer Cyclical                2.17                    86.08    1.049978e+10         1.27     2.185545e+09  2.803548e+10  1.247741e+10       2.154748e+10
+Consumer Defensive               1.24                    12.87    1.112469e+10         0.73     2.021751e+09  3.831034e+10  1.322597e+10       2.567545e+10
+Energy                           1.50                     6.63    1.185757e+10         1.25     1.352678e+09  5.837002e+10  1.325309e+10       2.925064e+10
+Financial Services              76.56                    40.54    3.395988e+10      8606.20     6.155874e+09  3.120868e+11  3.924688e+10       2.668405e+11
+Healthcare                       2.59                    15.63    1.018766e+10         2.29     1.040245e+09  3.699105e+10  1.116145e+10       2.381813e+10
+Industrials                      1.82                    52.30    8.588407e+09         1.41     2.179207e+09  2.914376e+10  1.000788e+10       2.167291e+10
+Real Estate                     11.42                    12.70    8.419309e+09        10.65     7.377056e+08  1.810079e+10  8.821973e+09       1.020885e+10
+Technology                       2.05                    47.80    7.079114e+09         1.76     9.471374e+08  2.858364e+10  8.020411e+09       1.801759e+10
+Utilities                        0.85                     2.71    1.766708e+10         0.69     2.372896e+09  5.146449e+10  2.002629e+10       3.749016e+10
+
+------------------------------------------------------------
+## D CashFlow
+                        Capital Expenditure  Cash And Short Term Investments  Dividends Paid  Free Cash Flow      Net Cash  Operating Cash Flow  Stock Based Compensation
+Sector                                                                                                                                                                   
+Basic Materials               -1.147600e+09                     1.761103e+09   -5.987342e+08    1.267565e+09 -5.134409e+09         2.415165e+09              6.431339e+07
+Communication Services        -6.738625e+09                     1.251012e+10   -1.776115e+09    6.786528e+09 -2.485286e+10         1.352515e+10              1.207522e+09
+Consumer Cyclical             -1.712928e+09                     3.992147e+09   -5.230695e+08    1.360149e+09 -8.485263e+09         3.073078e+09              2.673216e+08
+Consumer Defensive            -1.357728e+09                     2.756604e+09   -1.665510e+09    2.832511e+09 -1.046936e+10         4.190239e+09              1.354528e+08
+Energy                        -3.932106e+09                     2.730760e+09   -1.816671e+09    2.254035e+09 -1.052233e+10         6.186142e+09              1.520388e+08
+Financial Services            -1.452697e+09                     6.847287e+10   -1.207438e+09    3.772704e+09  2.922599e+10         5.225401e+09              3.115644e+08
+Healthcare                    -6.910465e+08                     4.816123e+09   -1.110776e+09    3.025692e+09 -6.345323e+09         3.716739e+09              1.815538e+08
+Industrials                   -1.006798e+09                     3.053699e+09   -6.881920e+08    1.349446e+09 -6.959064e+09         2.358191e+09              9.387860e+07
+Real Estate                   -4.645531e+08                     5.012466e+08   -7.681451e+08    7.608827e+08 -8.320726e+09         1.225436e+09              4.294961e+07
+Technology                    -1.061294e+09                     6.349066e+09   -9.495852e+08    3.416574e+09 -1.671345e+09         4.477868e+09              4.718004e+08
+Utilities                     -3.609803e+09                     5.505762e+08   -8.615246e+08   -8.432057e+08 -1.947571e+10         2.766597e+09              4.591500e+07
+
+------------------------------------------------------------
+## E CostOfCapital
+                        After-Tax Cost of Debt  Effective Tax Rate  Equity Risk Premium  Pre-Tax Cost of Debt  Risk Free Rate  WACC
+Sector                                                                                                                             
+Basic Materials                           0.04                0.15                 0.06                  0.05            0.02  0.08
+Communication Services                    0.03                0.14                 0.06                  0.04            0.02  0.07
+Consumer Cyclical                         0.03                0.20                 0.06                  0.04            0.02  0.08
+Consumer Defensive                        0.03                0.21                 0.06                  0.03            0.02  0.05
+Energy                                    0.03                0.33                 0.06                  0.04            0.02  0.09
+Financial Services                        0.05                0.23                 0.06                  0.06            0.02  0.07
+Healthcare                                0.54                0.16                 0.06                  0.65            0.02  0.06
+Industrials                               0.03                0.23                 0.06                  0.03            0.02  0.07
+Real Estate                              -0.83               26.69                 0.06                  0.03            0.02 -0.23
+Technology                                0.05               -0.01                 0.06                  0.05            0.02  0.08
+Utilities                                 0.03                0.19                 0.05                  0.04            0.02  0.05
+
+------------------------------------------------------------
+
+Saved wide CSV → out\sec_composition_avg_val_10yr.csv

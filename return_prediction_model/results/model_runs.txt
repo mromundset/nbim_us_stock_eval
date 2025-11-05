@@ -1,0 +1,288 @@
+------------------------------------------------------------
+Timestamp: 2025-11-05 02:19
+Model: ridge
+Sector neutral: True
+Normalize: zscore
+Horizon: 60-180
+Min names/date: 20
+Mean Rank IC: 0.04964758677043344
+Rank IC t-stat: 2.2708065167282028
+Avg Decile Spread: 0.02088692749458991
+Pooled Spearman IC: 0.01909206535160677
+Top features (by |value|):
+  P/S Ratio: +0.0080
+  Operating Profit Margin: -0.0067
+  inv_ps: +0.0045
+  inv_pe: -0.0041
+  Return On Assets: +0.0038
+  Beta: +0.0023
+  Return On Invested Capital: +0.0022
+  Return On Capital Employed: +0.0011
+  Current Ratio: +0.0010
+  Return On Equity: +0.0008
+------------------------------------------------------------
+
+------------------------------------------------------------
+Timestamp: 2025-11-05 02:56
+Model: ridge
+Sector neutral: False
+Normalize: zscore
+Horizon: 60-180
+Min names/date: 20
+Mean Rank IC: 0.013686432421591498
+Rank IC t-stat: 0.4957027987031537
+Avg Decile Spread: 0.0036562687174079614
+Pooled Spearman IC: 0.022074800236182655
+Top features (by |value|):
+  Operating Profit Margin: -0.0100
+  inv_pe: -0.0086
+  P/S Ratio: +0.0082
+  Gross Profit Margin: +0.0080
+  inv_ps: +0.0060
+  Return On Assets: +0.0047
+  P/E Ratio: -0.0038
+  Return On Invested Capital: +0.0033
+  Quick Ratio: +0.0032
+  Return On Capital Employed: +0.0029
+------------------------------------------------------------
+
+------------------------------------------------------------
+Timestamp: 2025-11-05 03:03
+Model: ridge
+Sector neutral: True
+Normalize: rank
+Horizon: 60-180
+Min names/date: 20
+Mean Rank IC: 0.030258492066465942
+Rank IC t-stat: 1.353112552477917
+Avg Decile Spread: 0.012298356474593396
+Pooled Spearman IC: 0.016981708115394845
+Top features (by |value|):
+  inv_pe: -0.0251
+  Operating Profit Margin: -0.0202
+  Return On Assets: +0.0196
+  P/S Ratio: +0.0188
+  inv_ps: +0.0175
+  Return On Invested Capital: +0.0148
+  Beta: +0.0089
+  Current Ratio: +0.0088
+  P/E Ratio: -0.0085
+  Return On Capital Employed: -0.0060
+------------------------------------------------------------
+
+------------------------------------------------------------
+Timestamp: 2025-11-05 03:11
+Model: randomforest
+Sector neutral: True
+Normalize: zscore
+Horizon: 60-180
+Min names/date: 20
+Mean Rank IC: 0.011913781482517732
+Rank IC t-stat: 0.49229842179338573
+Avg Decile Spread: -0.00153144205121225
+Pooled Spearman IC: 0.00976709748391653
+Top features (by |value|):
+  inv_pe: +0.2658
+  P/S Ratio: +0.1386
+  Return On Assets: +0.0915
+  inv_ps: +0.0834
+  Operating Profit Margin: +0.0792
+  Beta: +0.0750
+  P/E Ratio: +0.0591
+  Return On Invested Capital: +0.0497
+  Return On Capital Employed: +0.0407
+  Gross Profit Margin: +0.0391
+------------------------------------------------------------
+
+------------------------------------------------------------
+Timestamp: 2025-11-05 03:14
+Model: randomforest
+Sector neutral: False
+Normalize: zscore
+Horizon: 60-180
+Min names/date: 20
+Mean Rank IC: -0.017521041977063005
+Rank IC t-stat: -0.6328176384809759
+Avg Decile Spread: -0.009620585754108013
+Pooled Spearman IC: 0.014271441497731858
+Top features (by |value|):
+  inv_pe: +0.2142
+  Beta: +0.1744
+  P/S Ratio: +0.0939
+  P/E Ratio: +0.0734
+  Return On Capital Employed: +0.0695
+  Operating Profit Margin: +0.0602
+  inv_ps: +0.0580
+  Return On Assets: +0.0521
+  Gross Profit Margin: +0.0461
+  Return On Invested Capital: +0.0431
+------------------------------------------------------------
+
+------------------------------------------------------------
+Timestamp: 2025-11-05 03:17
+Model: randomforest
+Sector neutral: True
+Normalize: rank
+Horizon: 60-180
+Min names/date: 20
+Mean Rank IC: 0.022245303979032186
+Rank IC t-stat: 1.0070781287671875
+Avg Decile Spread: -0.009829928530696821
+Pooled Spearman IC: 0.01840789520859546
+Top features (by |value|):
+  inv_ps: +0.1393
+  inv_pe: +0.1093
+  Operating Profit Margin: +0.0886
+  Return On Assets: +0.0835
+  Beta: +0.0825
+  P/E Ratio: +0.0808
+  Return On Invested Capital: +0.0788
+  Return On Capital Employed: +0.0707
+  P/S Ratio: +0.0681
+  Gross Profit Margin: +0.0553
+------------------------------------------------------------
+
+------------------------------------------------------------
+Timestamp: 2025-11-05 03:21
+Model: randomforest
+Sector neutral: False
+Normalize: rank
+Horizon: 60-180
+Min names/date: 20
+Mean Rank IC: 0.014520016497852116
+Rank IC t-stat: 0.5266591629886277
+Avg Decile Spread: -0.007903116986480748
+Pooled Spearman IC: 0.015234256012717844
+Top features (by |value|):
+  Beta: +0.0972
+  Operating Profit Margin: +0.0917
+  inv_pe: +0.0868
+  P/E Ratio: +0.0861
+  Return On Equity: +0.0814
+  Gross Profit Margin: +0.0798
+  Current Ratio: +0.0795
+  Quick Ratio: +0.0794
+  P/S Ratio: +0.0767
+  Return On Invested Capital: +0.0683
+------------------------------------------------------------
+
+------------------------------------------------------------
+Timestamp: 2025-11-05 03:23
+Model: ridge
+Sector neutral: False
+Normalize: rank
+Horizon: 60-180
+Min names/date: 20
+Mean Rank IC: 0.027454682197134025
+Rank IC t-stat: 0.9585337536969164
+Avg Decile Spread: 0.001689422906467298
+Pooled Spearman IC: 0.01696788518885806
+Top features (by |value|):
+  inv_pe: -0.0489
+  Gross Profit Margin: +0.0341
+  Operating Profit Margin: -0.0293
+  inv_ps: +0.0230
+  P/E Ratio: -0.0207
+  P/S Ratio: +0.0196
+  Quick Ratio: +0.0154
+  Return On Capital Employed: +0.0144
+  Return On Assets: +0.0125
+  Return On Invested Capital: +0.0104
+------------------------------------------------------------
+
+------------------------------------------------------------
+Timestamp: 2025-11-05 03:33
+Model: gbdt
+Sector neutral: True
+Normalize: zscore
+Horizon: 60-180
+Min names/date: 20
+Mean Rank IC: 0.02120058134815347
+Rank IC t-stat: 0.9197152058100241
+Avg Decile Spread: 0.026912983331625083
+Pooled Spearman IC: 0.013288804157067124
+Top features (by |value|):
+  inv_pe: +471.0000
+  inv_ps: +462.0000
+  P/E Ratio: +431.0000
+  Beta: +415.0000
+  Gross Profit Margin: +327.0000
+  P/S Ratio: +325.0000
+  Return On Assets: +318.0000
+  Return On Invested Capital: +271.0000
+  Return On Capital Employed: +267.0000
+  Return On Equity: +263.0000
+------------------------------------------------------------
+
+------------------------------------------------------------
+Timestamp: 2025-11-05 03:36
+Model: gbdt
+Sector neutral: False
+Normalize: zscore
+Horizon: 60-180
+Min names/date: 20
+Mean Rank IC: 0.011736946260837303
+Rank IC t-stat: 0.4460448233054045
+Avg Decile Spread: -0.0002550788219752668
+Pooled Spearman IC: 0.011181705959671814
+Top features (by |value|):
+  Beta: +511.0000
+  inv_pe: +401.0000
+  P/E Ratio: +390.0000
+  inv_ps: +376.0000
+  P/S Ratio: +366.0000
+  Operating Profit Margin: +319.0000
+  Gross Profit Margin: +312.0000
+  Return On Equity: +293.0000
+  Return On Invested Capital: +276.0000
+  Current Ratio: +261.0000
+------------------------------------------------------------
+
+------------------------------------------------------------
+Timestamp: 2025-11-05 03:40
+Model: gbdt
+Sector neutral: True
+Normalize: rank
+Horizon: 60-180
+Min names/date: 20
+Mean Rank IC: 0.008255164410244495
+Rank IC t-stat: 0.36337301017506113
+Avg Decile Spread: -0.0027038686235281457
+Pooled Spearman IC: -0.0009206127342867016
+Top features (by |value|):
+  Beta: +413.0000
+  inv_ps: +384.0000
+  inv_pe: +380.0000
+  P/E Ratio: +371.0000
+  P/S Ratio: +363.0000
+  Gross Profit Margin: +350.0000
+  Return On Assets: +302.0000
+  Return On Invested Capital: +300.0000
+  Operating Profit Margin: +297.0000
+  Return On Equity: +277.0000
+------------------------------------------------------------
+
+------------------------------------------------------------
+Timestamp: 2025-11-05 03:42
+Model: gbdt
+Sector neutral: False
+Normalize: rank
+Horizon: 60-180
+Min names/date: 20
+Mean Rank IC: 0.039396536135681476
+Rank IC t-stat: 1.3559599802374358
+Avg Decile Spread: 0.023904591552357767
+Pooled Spearman IC: 0.02296179979910894
+Top features (by |value|):
+  Beta: +521.0000
+  Return On Equity: +379.0000
+  Gross Profit Margin: +370.0000
+  inv_pe: +341.0000
+  P/S Ratio: +340.0000
+  Operating Profit Margin: +330.0000
+  P/E Ratio: +318.0000
+  Return On Invested Capital: +301.0000
+  Quick Ratio: +287.0000
+  Return On Assets: +259.0000
+------------------------------------------------------------
+

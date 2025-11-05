@@ -1,0 +1,60 @@
+# Sector Ratio Screen
+Input file: data/sector_performance_ratios.csv
+Sector: Consumer Cyclical | Year: 2023 | Ratio: P/S (resolved as 'P/S Ratio')
+Sorted ascending (lowest first)
+Rows output: 50
+
+Top 10 preview:
+Ticker                        Company Name  P/S Ratio
+     F                  Ford Motor Company      0.142
+    GM              General Motors Company      0.168
+   BBY                  Best Buy Co., Inc.      0.188
+   KMX                        CarMax, Inc.      0.207
+   BWA                     BorgWarner Inc.      0.272
+   MHK             Mohawk Industries, Inc.      0.326
+   CZR         Caesars Entertainment, Inc.      0.379
+    IP         International Paper Company      0.379
+   GPC               Genuine Parts Company      0.448
+   LKQ                     LKQ Corporation      0.463
+  NCLH Norwegian Cruise Line Holdings Ltd.      0.466
+  AMCR                           Amcor plc      0.472
+   CCL          Carnival Corporation & plc      0.473
+   MGM           MGM Resorts International      0.478
+  APTV                           Aptiv PLC      0.575
+   LEN                  Lennar Corporation      0.646
+    RL            Ralph Lauren Corporation      0.653
+   TPR                      Tapestry, Inc.      0.665
+  BALL                    Ball Corporation      0.707
+  EXPE                 Expedia Group, Inc.      0.740
+   DHI                   D.R. Horton, Inc.      0.753
+   PHM                    PulteGroup, Inc.      0.763
+   HAS                        Hasbro, Inc.      0.771
+  WYNN               Wynn Resorts, Limited      0.842
+   DRI            Darden Restaurants, Inc.      0.965
+  TSCO              Tractor Supply Company      0.992
+   TJX             The TJX Companies, Inc.      1.004
+   PKG    Packaging Corporation of America      1.059
+   RCL        Royal Caribbean Cruises Ltd.      1.313
+   NVR                           NVR, Inc.      1.326
+  EBAY                           eBay Inc.      1.440
+   AZO                      AutoZone, Inc.      1.471
+  SBUX               Starbucks Corporation      1.484
+  ETSY                          Etsy, Inc.      1.491
+   MAR        Marriott International, Inc.      1.578
+  AMZN                    Amazon.com, Inc.      1.623
+   NKE                          NIKE, Inc.      1.628
+   LVS               Las Vegas Sands Corp.      1.847
+   DPZ                Domino's Pizza, Inc.      1.903
+  ORLY           O'Reilly Automotive, Inc.      1.972
+  DECK         Deckers Outdoor Corporation      2.169
+   HLT      Hilton Worldwide Holdings Inc.      2.603
+   YUM                   Yum! Brands, Inc.      2.748
+  TSLA                         Tesla, Inc.      2.982
+  BKNG               Booking Holdings Inc.      3.211
+   ROL                       Rollins, Inc.      3.664
+   MCD              McDonald's Corporation      4.008
+   CMG        Chipotle Mexican Grill, Inc.      4.097
+  ABNB                        Airbnb, Inc.      4.858
+  CPRT                        Copart, Inc.      5.986
+
+Saved → out\consumer_cyclical_ps.csv

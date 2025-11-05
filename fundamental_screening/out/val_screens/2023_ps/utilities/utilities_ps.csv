@@ -1,0 +1,32 @@
+Ticker,Company Name,P/S Ratio
+NRG,"NRG Energy, Inc.",0.236
+GEV,GE Vernova Inc.,0.603
+PCG,PG&E Corporation,0.631
+EXC,Exelon Corporation,0.705
+EIX,Edison International,0.714
+FE,FirstEnergy Corp.,0.731
+ES,Eversource Energy,0.74
+PNW,Pinnacle West Capital Corporation,0.762
+DTE,DTE Energy Company,0.766
+ETR,Entergy Corporation,0.788
+VST,Vistra Corp.,0.821
+NI,NiSource Inc.,0.9
+ED,"Consolidated Edison, Inc.",0.924
+CNP,"CenterPoint Energy, Inc.",0.928
+XEL,Xcel Energy Inc.,0.95
+EVRG,"Evergy, Inc.",0.985
+CMS,CMS Energy Corporation,0.987
+AEP,"American Electric Power Company, Inc.",1.028
+PPL,PPL Corporation,1.063
+AEE,Ameren Corporation,1.092
+DUK,Duke Energy Corporation,1.109
+WEC,"WEC Energy Group, Inc.",1.205
+SRE,Sempra,1.269
+CEG,Constellation Energy Corporation,1.271
+D,"Dominion Energy, Inc.",1.306
+PEG,Public Service Enterprise Group Incorporated,1.325
+LNT,Alliant Energy Corporation,1.371
+SO,The Southern Company,1.389
+ATO,Atmos Energy Corporation,1.732
+NEE,"NextEra Energy, Inc.",2.039
+AWK,"American Water Works Company, Inc.",2.504

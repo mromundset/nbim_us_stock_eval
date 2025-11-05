@@ -1,0 +1,167 @@
+Company Name,Calendar Year,P/E Ratio
+Amgen Inc.,2014,0.925
+Amgen Inc.,2015,0.686
+Amgen Inc.,2016,0.533
+Amgen Inc.,2017,2.292
+Amgen Inc.,2018,0.532
+Amgen Inc.,2019,0.598
+Amgen Inc.,2020,0.576
+Amgen Inc.,2021,0.903
+Amgen Inc.,2022,0.876
+Amgen Inc.,2023,0.81
+Biogen Inc.,2014,1.051
+Biogen Inc.,2015,0.662
+Biogen Inc.,2016,0.525
+Biogen Inc.,2017,0.895
+Biogen Inc.,2018,0.42
+Biogen Inc.,2019,0.328
+Biogen Inc.,2020,0.4
+Biogen Inc.,2021,0.874
+Biogen Inc.,2022,0.564
+Biogen Inc.,2023,0.959
+Bristol-Myers Squibb Company,2014,2.116
+Bristol-Myers Squibb Company,2015,2.598
+Bristol-Myers Squibb Company,2016,0.696
+Bristol-Myers Squibb Company,2017,3.198
+Bristol-Myers Squibb Company,2018,0.604
+Bristol-Myers Squibb Company,2019,0.993
+Bristol-Myers Squibb Company,2021,0.875
+Bristol-Myers Squibb Company,2022,0.934
+Bristol-Myers Squibb Company,2023,0.404
+Centene Corporation,2014,1.149
+Centene Corporation,2015,0.856
+Centene Corporation,2016,0.735
+Centene Corporation,2017,0.82
+Centene Corporation,2018,0.859
+Centene Corporation,2019,0.665
+Centene Corporation,2020,0.668
+Centene Corporation,2021,1.433
+Centene Corporation,2022,1.406
+Centene Corporation,2023,0.515
+Cigna Corporation,2014,0.615
+Cigna Corporation,2015,0.677
+Cigna Corporation,2016,0.696
+Cigna Corporation,2017,0.677
+Cigna Corporation,2018,0.567
+Cigna Corporation,2019,0.451
+Cigna Corporation,2020,0.305
+Cigna Corporation,2021,0.683
+Cigna Corporation,2022,0.573
+Cigna Corporation,2023,0.646
+DaVita Inc.,2014,0.915
+DaVita Inc.,2015,2.147
+DaVita Inc.,2016,0.469
+DaVita Inc.,2017,0.642
+DaVita Inc.,2018,0.434
+DaVita Inc.,2019,0.532
+DaVita Inc.,2020,0.544
+DaVita Inc.,2021,0.422
+DaVita Inc.,2022,0.444
+DaVita Inc.,2023,0.6
+Elevance Health Inc.,2014,0.636
+Elevance Health Inc.,2015,0.531
+Elevance Health Inc.,2016,0.626
+Elevance Health Inc.,2017,0.541
+Elevance Health Inc.,2018,0.691
+Elevance Health Inc.,2019,0.505
+Elevance Health Inc.,2020,0.641
+Elevance Health Inc.,2021,0.734
+Elevance Health Inc.,2022,0.804
+Elevance Health Inc.,2023,0.708
+"Gilead Sciences, Inc.",2014,0.554
+"Gilead Sciences, Inc.",2015,0.269
+"Gilead Sciences, Inc.",2016,0.226
+"Gilead Sciences, Inc.",2017,0.682
+"Gilead Sciences, Inc.",2018,0.553
+"Gilead Sciences, Inc.",2019,0.559
+"Gilead Sciences, Inc.",2020,29.54
+"Gilead Sciences, Inc.",2021,0.515
+"Gilead Sciences, Inc.",2022,0.916
+"Gilead Sciences, Inc.",2023,0.538
+"HCA Healthcare, Inc.",2014,0.689
+"HCA Healthcare, Inc.",2015,0.574
+"HCA Healthcare, Inc.",2016,0.34
+"HCA Healthcare, Inc.",2017,0.569
+"HCA Healthcare, Inc.",2018,0.429
+"HCA Healthcare, Inc.",2019,0.398
+"HCA Healthcare, Inc.",2020,0.599
+"HCA Healthcare, Inc.",2021,0.378
+"HCA Healthcare, Inc.",2022,0.579
+"HCA Healthcare, Inc.",2023,0.583
+"Henry Schein, Inc.",2014,0.808
+"Henry Schein, Inc.",2015,0.911
+"Henry Schein, Inc.",2016,0.687
+"Henry Schein, Inc.",2017,0.751
+"Henry Schein, Inc.",2018,0.648
+"Henry Schein, Inc.",2019,0.596
+"Henry Schein, Inc.",2020,0.822
+"Henry Schein, Inc.",2021,0.671
+"Henry Schein, Inc.",2022,0.813
+"Henry Schein, Inc.",2023,0.773
+Humana Inc.,2014,0.957
+Humana Inc.,2015,0.851
+Humana Inc.,2016,1.758
+Humana Inc.,2017,0.575
+Humana Inc.,2018,0.821
+Humana Inc.,2019,0.64
+Humana Inc.,2020,0.527
+Humana Inc.,2021,0.795
+Humana Inc.,2022,0.949
+Humana Inc.,2023,0.622
+Johnson & Johnson,2014,0.688
+Johnson & Johnson,2016,0.685
+Johnson & Johnson,2017,8.907
+Johnson & Johnson,2018,0.843
+Johnson & Johnson,2019,0.856
+Johnson & Johnson,2020,0.915
+Johnson & Johnson,2022,0.989
+Johnson & Johnson,2023,0.362
+"Molina Healthcare, Inc.",2014,2.014
+"Molina Healthcare, Inc.",2015,0.833
+"Molina Healthcare, Inc.",2016,2.1
+"Molina Healthcare, Inc.",2018,0.464
+"Molina Healthcare, Inc.",2019,0.51
+"Molina Healthcare, Inc.",2020,0.693
+"Molina Healthcare, Inc.",2021,1.063
+"Molina Healthcare, Inc.",2022,0.965
+"Molina Healthcare, Inc.",2023,0.659
+Quest Diagnostics Incorporated,2014,0.724
+Quest Diagnostics Incorporated,2015,0.635
+Quest Diagnostics Incorporated,2016,0.69
+Quest Diagnostics Incorporated,2017,0.591
+Quest Diagnostics Incorporated,2018,0.627
+Quest Diagnostics Incorporated,2019,0.604
+Quest Diagnostics Incorporated,2020,0.387
+Quest Diagnostics Incorporated,2021,0.343
+Quest Diagnostics Incorporated,2022,0.708
+Quest Diagnostics Incorporated,2023,0.602
+"Regeneron Pharmaceuticals, Inc.",2014,5.726
+"Regeneron Pharmaceuticals, Inc.",2015,2.501
+"Regeneron Pharmaceuticals, Inc.",2016,1.596
+"Regeneron Pharmaceuticals, Inc.",2017,0.972
+"Regeneron Pharmaceuticals, Inc.",2018,0.566
+"Regeneron Pharmaceuticals, Inc.",2019,0.934
+"Regeneron Pharmaceuticals, Inc.",2020,0.5
+"Regeneron Pharmaceuticals, Inc.",2021,0.329
+"Regeneron Pharmaceuticals, Inc.",2022,0.827
+"Regeneron Pharmaceuticals, Inc.",2023,0.908
+UnitedHealth Group Incorporated,2014,0.817
+UnitedHealth Group Incorporated,2015,0.857
+UnitedHealth Group Incorporated,2016,0.766
+UnitedHealth Group Incorporated,2017,0.751
+UnitedHealth Group Incorporated,2018,0.716
+UnitedHealth Group Incorporated,2019,0.719
+UnitedHealth Group Incorporated,2020,0.786
+UnitedHealth Group Incorporated,2021,1.054
+UnitedHealth Group Incorporated,2022,0.98
+UnitedHealth Group Incorporated,2023,0.738
+"Universal Health Services, Inc.",2014,0.917
+"Universal Health Services, Inc.",2015,0.729
+"Universal Health Services, Inc.",2016,0.51
+"Universal Health Services, Inc.",2017,0.495
+"Universal Health Services, Inc.",2018,0.574
+"Universal Health Services, Inc.",2019,0.408
+"Universal Health Services, Inc.",2020,0.38
+"Universal Health Services, Inc.",2021,0.401
+"Universal Health Services, Inc.",2022,0.626
+"Universal Health Services, Inc.",2023,0.595

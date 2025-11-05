@@ -1,0 +1,30 @@
+# Zero Replacement Report
+Input file: data/curr_price.csv
+Output file: out\curr_price.csv
+
+Rows: 489, Columns: 62
+
+Top 20 columns with zero counts before replacement:
+Preferred Stock               382
+Dividends Paid                102
+Common Stock                   28
+Cost Of Revenue                16
+Interest Coverage Ratio        12
+Pre-Tax Cost of Debt           10
+After-Tax Cost of Debt         10
+Capital Expenditure             9
+Interest Expense                8
+Return On Capital Employed      8
+Return On Invested Capital      5
+Short-Term Debt                 5
+Operating Profit Margin         5
+Stock Based Compensation        4
+Quick Ratio                     3
+Retained Earnings               2
+Beta                            2
+Earnings per Share              1
+Return On Equity                1
+Return On Assets                1
+
+Total columns processed: 56
+Skipped identifier columns: Ticker, Company Name, Sector, Industry, Calendar Year, Period

@@ -1,0 +1,13 @@
+# CSV Repair Report
+Input: data/us_stock_valuation_quotefix_pass1.csv
+Output: out\us_stock_valuation_quotefix_pass2.csv
+Expected width: 62
+
+Pre-repair widths: {62: 13865, 60: 336}
+Post-repair widths: {62: 14201}
+
+Fixed rows: 14201
+Unfixed rows: 0
+Missing data: 0.03%
+
+Validation: PASS

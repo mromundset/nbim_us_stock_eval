@@ -1,0 +1,27 @@
+# Sector Ratio Screen
+Input file: data/sector_performance_ratios.csv
+Sector: Communication Services | Year: 2023 | Ratio: P/S (resolved as 'P/S Ratio')
+Sorted ascending (lowest first)
+Rows output: 17
+
+Top 10 preview:
+Ticker                             Company Name  P/S Ratio
+  PARA                         Paramount Global      0.244
+   WBD             Warner Bros. Discovery, Inc.      0.376
+  CHTR             Charter Communications, Inc.      0.616
+   LYV          Live Nation Entertainment, Inc.      0.740
+     T                                AT&T Inc.      0.836
+   IPG The Interpublic Group of Companies, Inc.      0.872
+  FOXA                          Fox Corporation      0.888
+   OMC                       Omnicom Group Inc.      0.956
+    VZ              Verizon Communications Inc.      1.004
+   NWS                         News Corporation      1.096
+ CMCSA                      Comcast Corporation      1.144
+   DIS                  The Walt Disney Company      1.674
+  TMUS                        T-Mobile US, Inc.      2.060
+  MTCH                        Match Group, Inc.      2.176
+  GOOG                            Alphabet Inc.      5.260
+  NFLX                            Netflix, Inc.      6.348
+  META                     Meta Platforms, Inc.      7.352
+
+Saved → out\communication_services_ps.csv

@@ -1,0 +1,80 @@
+Ticker,Company Name,P/S Ratio
+DELL,Dell Technologies Inc.,0.077
+JBL,Jabil Inc.,0.092
+HPQ,HP Inc.,0.102
+HPE,Hewlett Packard Enterprise Company,0.146
+LDOS,"Leidos Holdings, Inc.",0.228
+AVGO,Broadcom Inc.,0.269
+WDC,Western Digital Corporation,0.271
+CDW,CDW Corporation,0.281
+CTSH,Cognizant Technology Solutions Corporation,0.356
+JNPR,"Juniper Networks, Inc.",0.399
+STX,Seagate Technology Holdings plc,0.421
+GLW,Corning Incorporated,0.459
+NTAP,"NetApp, Inc.",0.517
+IBM,International Business Machines Corporation,0.519
+TEL,TE Connectivity Ltd.,0.536
+QRVO,"Qorvo, Inc.",0.537
+INTC,Intel Corporation,0.542
+EPAM,"EPAM Systems, Inc.",0.579
+ACN,Accenture plc,0.604
+ZBRA,Zebra Technologies Corporation,0.608
+TDY,Teledyne Technologies Incorporated,0.66
+SWKS,"Skyworks Solutions, Inc.",0.672
+SMCI,"Super Micro Computer, Inc.",0.69
+GEN,Gen Digital Inc.,0.693
+CSCO,"Cisco Systems, Inc.",0.708
+BR,"Broadridge Financial Solutions, Inc.",0.72
+FFIV,"F5, Inc.",0.727
+TRMB,Trimble Inc.,0.739
+UBER,"Uber Technologies, Inc.",0.768
+ON,ON Semiconductor Corporation,0.772
+AKAM,"Akamai Technologies, Inc.",0.825
+FIS,"Fidelity National Information Services, Inc.",0.829
+GDDY,GoDaddy Inc.,0.847
+TTWO,"Take-Two Interactive Software, Inc.",0.85
+FI,"Fiserv, Inc.",0.869
+FTV,Fortive Corporation,0.874
+EA,Electronic Arts Inc.,0.911
+KEYS,"Keysight Technologies, Inc.",0.947
+NXPI,NXP Semiconductors N.V.,0.958
+QCOM,QUALCOMM Incorporated,0.966
+MCHP,Microchip Technology Incorporated,1.012
+GRMN,Garmin Ltd.,1.036
+AMAT,"Applied Materials, Inc.",1.066
+CPAY,"Corpay, Inc.",1.088
+APH,Amphenol Corporation,1.09
+JKHY,"Jack Henry & Associates, Inc.",1.091
+PAYC,"Paycom Software, Inc.",1.096
+ORCL,Oracle Corporation,1.133
+MSI,"Motorola Solutions, Inc.",1.135
+IT,"Gartner, Inc.",1.148
+DAY,Dayforce Inc,1.153
+LRCX,Lam Research Corporation,1.192
+CRM,"Salesforce, Inc.",1.229
+MU,"Micron Technology, Inc.",1.285
+TER,"Teradyne, Inc.",1.365
+KLAC,KLA Corporation,1.458
+AAPL,Apple Inc.,1.517
+ADI,"Analog Devices, Inc.",1.576
+ADSK,"Autodesk, Inc.",1.74
+TXN,Texas Instruments Incorporated,1.762
+FTNT,"Fortinet, Inc.",1.845
+PTC,PTC Inc.,1.881
+TYL,"Tyler Technologies, Inc.",1.917
+INTU,Intuit Inc.,2.207
+AMD,"Advanced Micro Devices, Inc.",2.279
+PANW,"Palo Alto Networks, Inc.",2.317
+ANSS,"ANSYS, Inc.",2.421
+ADBE,Adobe Inc.,2.448
+VRSN,"VeriSign, Inc.",2.475
+MSFT,Microsoft Corporation,2.548
+SNPS,"Synopsys, Inc.",2.752
+ANET,"Arista Networks, Inc.",3.032
+CRWD,"CrowdStrike Holdings, Inc.",3.088
+NOW,"ServiceNow, Inc.",3.307
+CDNS,"Cadence Design Systems, Inc.",3.875
+MPWR,"Monolithic Power Systems, Inc.",3.898
+FICO,Fair Isaac Corporation,4.084
+TTD,"The Trade Desk, Inc.",4.331
+NVDA,NVIDIA Corporation,6.125
